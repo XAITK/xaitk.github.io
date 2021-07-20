@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#3abca0"
+  overlay_color: "#0066CC"
   actions:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "https://github.com/XAITK/xaitk-saliency/blob/master/docs/installation.rst"
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /assets/kitware/images/open-source-icon.png
     alt: "100% free"
     title: "100% free"
-    excerpt: "Free to use however you want under the Placeholder License."
+    excerpt: "Free to use however you want under the Placeholder License.<br><br>"
     url: "https://github.com/XAITK/xaitk-saliency/blob/master/LICENSE.txt"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
