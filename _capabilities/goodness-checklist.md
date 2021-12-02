@@ -10,6 +10,8 @@ submission_details:
     papers:
       - title: Goodness Checklist
         url: https://data.kitware.com/api/v1/item/60abdf272fa25629b99af745/download?contentDisposition=inline
+      - title: Metrics for Explainable AI
+        url: https://data.kitware.com/api/v1/item/617af06c2fa25629b9c86bbb/download?contentDisposition=inline
    
   # Optional information describing artifact
   version: 1.0

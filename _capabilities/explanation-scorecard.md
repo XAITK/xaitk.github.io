@@ -8,10 +8,10 @@ submission_details:
   resources: # List any resources associated with the contribution. Not all sections are required
     papers:
       - title: Explanation Scorecard
-        url: https://data.kitware.com/api/v1/item/60a468792fa25629b95ad3bb/download?contentDisposition=inline
+        url: https://data.kitware.com/api/v1/item/617af0742fa25629b9c86c40/download?contentDisposition=inline
    
   # Optional information describing artifact
-  version: 1.0
+  version: 2.0
   size:
   license:
    

@@ -10,6 +10,8 @@ submission_details:
     papers:
       - title: Satisfaction Scale
         url: https://data.kitware.com/api/v1/item/60abdf332fa25629b99af755/download?contentDisposition=inline
+      - title: Metrics for Explainable AI
+        url: https://data.kitware.com/api/v1/item/617af06c2fa25629b9c86bbb/download?contentDisposition=inline
    
   # Optional information describing artifact
   version: 1.0
