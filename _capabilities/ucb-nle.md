@@ -19,9 +19,9 @@ submission_details:
         url: https://github.com/salaniz/pytorch-gve-lrcn
    
   # Optional information describing artifact. Leave blank if unused
-  version: Version Number
-  size: Size
-  license: Link to license
+  version: 
+  size: 
+  license: 
    
   authors:
     - Lisa Anne Hendricks, 1
