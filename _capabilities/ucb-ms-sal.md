@@ -29,7 +29,6 @@ submission_details:
     - Trevor Darrell, 1
     - Kate Saenko, 2
   organizations:
-    - Organization
     # Optional for multiple authors and organizations
     - 1. University of California, Berkeley
     - 2. Boston University
