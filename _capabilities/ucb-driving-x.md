@@ -33,7 +33,6 @@ submission_details:
     - John Canny, 1
     - Zeynep Akata, 2,3
   organizations:
-    - Organization
     # Optional for multiple authors and organizations
     - 1. University of California, Berkeley, USA
     - 2. MPI for Informatics, Saarland Informatics Campus, Saarbrucken, Germany
