@@ -8,10 +8,10 @@ submission_details:
   resources: # List any resources associated with the contribution. Not all sections are required
     papers:
       - title: Stakeholder Playbook
-        url: https://data.kitware.com/api/v1/item/60a468842fa25629b95ad3d4/download?contentDisposition=inline
+        url: https://data.kitware.com/api/v1/item/617af0752fa25629b9c86c5f/download?contentDisposition=inline
    
   # Optional information describing artifact
-  version: 1.0
+  version: 2.0
   size:
   license:
    
@@ -19,6 +19,8 @@ submission_details:
     - Robert R. Hoffman<sup>1</sup>
     - Gary Klein<sup>2</sup>
     - Shane T. Mueller<sup>3</sup>
+    - Mohammadreza Jalaeian<sup>2</sup>
+    - Connor Tate<sup>1</sup>
   organizations:
     - 1. Institute for Human and Machine Cognition
     - 2. Macrocognition, LLC
