@@ -41,5 +41,8 @@ Framework-agnostic implementation for state-of-the-art saliency methods
 [Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)  
 Integrate Responsible AI practices into ML workflows using TensorFlow
 
+[DALEX](https://dalex.drwhy.ai/)  
+Framework agnostic toolkit for Responsible AI and Explanatory Model Analysis
+
 [Skater](https://oracle.github.io/Skater/overview.html)  
 Python library for model interpretation and explanations
