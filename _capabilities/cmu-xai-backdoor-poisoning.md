@@ -4,17 +4,18 @@ excerpt: "Demo of our XAI system built to detect backdoor poisoned classifiers w
 tags: # Select from this set
   - Analytics
   - Computer Vision
-  - Backdoor Poisoning
-  - Human Interactive ML
+  - Human-Machine Teaming
+  - Data Poisoning
 
 submission_details:
   resources: # List any resources associated with the contribution. Not all sections are required
     papers:
       - title: Poisoned classifiers are not only backdoored, they are fundamentally broken
         url: https://arxiv.org/abs/2010.09080
-        code: https://github.com/locuslab/breaking-poisoned-classifier
     software:
-      - title: Classifier forensics tool.
+      - title: Official repo
+        url: https://github.com/locuslab/breaking-poisoned-classifier
+      - title: Classifier forensics tool
         url: https://github.com/Eric-mingjie/xai-classifier-forensics-tool
     demos:
       - title: Explainable XAI Classifier Forensics Tool Demo
@@ -30,7 +31,7 @@ submission_details:
    
   authors:
     - Mingjie Sun<sup>1</sup>
-    - Siddhant, Agarwal<sup>2</sup>
+    - Siddhant Agarwal<sup>2</sup>
     - Zico Kolter<sup>1</sup>
   organizations:
     - 1. Carnegie Mellon University
@@ -41,7 +42,7 @@ submission_details:
 ---
 
 ## Overview
-We propose an approach to analyze and identify backdoor poisoned classifiers with adversarial examples. Based on this approahc, we develop a classifier forensics tool, where our tool helps users visualize adversarial examples and test the predictions under different custom patches. For more details on our approach and tool, see our [technical report](https://arxiv.org/abs/2010.09080) and [demo](https://github.com/Eric-mingjie/xai-classifier-forensics-tool).
+We propose an approach to analyze and identify backdoor poisoned classifiers with adversarial examples. Based on this approach, we develop a classifier forensics tool, where our tool helps users visualize adversarial examples and test the predictions under different custom patches. For more details on our approach and tool, see our [technical report](https://arxiv.org/abs/2010.09080) and [demo](https://github.com/Eric-mingjie/xai-classifier-forensics-tool).
 
 
 ## Intended Use
@@ -49,7 +50,7 @@ Our tool aims to help users easily analyze poisoned classifiers with a user-frie
 
 
 ## Limitations
-Our approach consider mostly patch based backdoor poisoning. 
+Our approach considers mostly patch based backdoor poisoning. 
 
 ## References
 {% raw %}
