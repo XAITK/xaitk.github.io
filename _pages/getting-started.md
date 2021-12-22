@@ -29,6 +29,9 @@ Algorithms for explaining machine learning models
 [Captum](https://captum.ai/)  
 Model interpretability and understanding for PyTorch
 
+[DALEX](https://dalex.drwhy.ai/)  
+Framework agnostic toolkit for Responsible AI and Explanatory Model Analysis
+
 [Interpretable Machine Learning Book](https://christophm.github.io/interpretable-ml-book/)  
 A guide for making black box models explainable
 
