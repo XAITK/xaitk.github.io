@@ -23,11 +23,11 @@ submission_details:
   license: https://github.com/ronghanghu/snmn/blob/master/LICENSE.txt
    
   authors:
-    - Ronghang Hu, 1
+    - Ronghang Hu<sup>1</sup>
     # Optional for multiple authors and organizations
-    - Jacob Andreas, 1
-    - Trevor Darrell, 1
-    - Kate Saenko, 2
+    - Jacob Andreas<sup>1</sup>
+    - Trevor Darrell<sup>1</sup>
+    - Kate Saenko<sup>2</sup>
   organizations:
     # Optional for multiple authors and organizations
     - 1. University of California, Berkeley

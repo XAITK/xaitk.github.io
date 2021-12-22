@@ -21,16 +21,16 @@ submission_details:
   # Optional information describing artifact. Leave blank if unused
   version: 
   size: 
-  license: 
+  license: https://github.com/LisaAnne/ECCV2016/blob/master/LICENSE
    
   authors:
-    - Lisa Anne Hendricks, 1
+    - Lisa Anne Hendricks<sup>1</sup>
     # Optional for multiple authors and organizations
-    - Zeynep Akata, 2
-    - Marcus Rohrbach, 1,3
-    - Jeff Donahue, 1
-    - Bernt Schiele, 2
-    - Trevor Darrell, 1
+    - Zeynep Akata<sup>2</sup>
+    - Marcus Rohrbach<sup>1,3</sup>
+    - Jeff Donahue<sup>1</sup>
+    - Bernt Schiele<sup>2</sup>
+    - Trevor Darrell<sup>1</sup>
   organizations:
     - 1. UC Berkeley, Berkeley, CA, United States
     # Optional for multiple authors and organizations
@@ -56,7 +56,7 @@ The input is an image and a predicted class label. The output is a natural langu
 The model is trained on a parallel corpus of images with assicialted textual descriptions (they do not need to be explanations).
 
 ## Limitations
-The model requires a parallel corpus of images with assicialted textual descriptions.
+The model requires a parallel corpus of images with associated textual descriptions.
    
 ## References
 ```tex

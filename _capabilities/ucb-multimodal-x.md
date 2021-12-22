@@ -22,14 +22,14 @@ submission_details:
   license: https://github.com/Seth-Park/MultimodalExplanations/blob/master/LICENSE
    
   authors:
-    - Dong Huk Park, 1 
+    - Dong Huk Park<sup>1</sup>
     # Optional for multiple authors and organizations
-    - Lisa Anne Hendricks, 1
-    - Zeynep Akata, 2,3
-    - Anna Rohrbach, 1,3
-    - Bernt Schiele, 3
-    - Trevor Darrell, 1
-    - Marcus Rohrbach, 4
+    - Lisa Anne Hendricks<sup>1</sup>
+    - Zeynep Akata<sup>2,3</sup>
+    - Anna Rohrbac<sup>1,3</sup>
+    - Bernt Schiele<sup>3</sup>
+    - Trevor Darrell<sup>1</sup>
+    - Marcus Rohrbach<sup>4</sup>
   organizations:
     # Optional for multiple authors and organizations
     - 1. University of California, Berkeley, USA

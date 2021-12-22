@@ -14,7 +14,7 @@ submission_details:
       - title: Textual Explanations for Self-Driving Vehicles
         url: https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf
     software:
-      - title: Original repo
+      - title: Official repo
         url: https://github.com/JinkyuKimUCB/explainable-deep-driving
     data:
       - title: Berkeley Deep Drive-X Dataset
@@ -26,17 +26,17 @@ submission_details:
   license: https://github.com/JinkyuKimUCB/explainable-deep-driving/blob/master/LICENSE
    
   authors:
-    - Jinkyu Kim, 1
+    - Jinkyu Kim<sup>1</sup>
     # Optional for multiple authors and organizations
-    - Anna Rohrbach, 1,2
-    - Trevor Darrell, 1
-    - John Canny, 1
-    - Zeynep Akata, 2,3
+    - Anna Rohrbach<sup>1,2</sup>
+    - Trevor Darrell<sup>1</sup>
+    - John Canny<sup>1</sup>
+    - Zeynep Akata<sup>2,3</sup>
   organizations:
     # Optional for multiple authors and organizations
     - 1. University of California, Berkeley, USA
     - 2. MPI for Informatics, Saarland Informatics Campus, Saarbrucken, Germany
-    - 2. AMLab, University of Amsterdam, Amsterdam, Netherlands
+    - 3. AMLab, University of Amsterdam, Amsterdam, Netherlands
   point_of_contact:
     name: Anna Rohrbach
     email: anna.rohrbach@berkeley.edu
