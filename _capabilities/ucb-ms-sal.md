@@ -12,7 +12,7 @@ submission_details:
   resources: # List any resources associated with the contribution. Not all sections are required
     papers:
       - title: Explainable Neural Computation via Stack Neural Module Networks
-        url: https://arxiv.org/pdf/1807.08556.pdf
+        url: https://openaccess.thecvf.com/content_ECCV_2018/papers/Ronghang_Hu_Explainable_Neural_Computation_ECCV_2018_paper.pdf
     software:
       - title: Official Tensorflow repo
         url: https://github.com/ronghanghu/snmn

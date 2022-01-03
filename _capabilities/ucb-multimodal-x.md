@@ -43,14 +43,13 @@ submission_details:
 
      
 ## Overview
-This is the first dataset that provides multimodal human ground-truth explanations (both textual and visual) for two down-stream tasks, namely visual question answering (VQA-X) and activity recognition (ACT-X).   
+This is the first dataset that provides multimodal human ground-truth explanations (both textual and visual) for two down-stream tasks, namely visual question answering (VQA-X) and activity recognition (ACT-X).
+
 ## Intended Use
 This dataset will be of interest to AI researchers interested in explainability in multimodal contexts, serving as a benchmark for evaluating the correctness of the generated explanations.
    
 ## Model/Data
 Our datasets define visual and textual justifications of a classification decision for activity recognition tasks (ACT-X) and for visual question answering tasks (VQA-X).
-   
-## Limitations
    
 ## References
 ```tex

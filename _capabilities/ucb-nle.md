@@ -11,7 +11,7 @@ submission_details:
   resources: # List any resources associated with the contribution. Not all sections are required
     papers:
       - title: Generating Visual Explanations
-        url: https://arxiv.org/pdf/1603.08507.pdf
+        url: https://link.springer.com/content/pdf/10.1007%2F978-3-319-46493-0_1.pdf
     software:
       - title: Official Caffe version
         url: https://github.com/LisaAnne/ECCV2016
