@@ -27,8 +27,7 @@ submission_details:
   # Optional information describing artifact. Leave blank if unused
   version: 
   size: 
-  license: https://github.com/Eric-mingjie/xai-classifier-forensics-tool/blob/main/LICENSE 
-           https://github.com/locuslab/breaking-poisoned-classifier/blob/main/LICENSE
+  license: https://github.com/Eric-mingjie/xai-classifier-forensics-tool/blob/main/LICENSE
    
   authors:
     - Mingjie Sun<sup>1</sup>
