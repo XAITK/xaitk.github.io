@@ -52,13 +52,14 @@ layout: archive
 <br>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign capabilities = site.capabilities | sort: 'title' %}
 {% for i in (1..tags_max) reversed %}
   {% for tag in grouped_tags %}
     {% if tag.size == i %}
       <section id="{{ tag.name | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ tag.name | capitalize }}</h2>
         <div class="entries-{{ entries_layout }}">
-          {% for capability in site.capabilities %}
+          {% for capability in capabilities %}
               {% if capability.tags contains tag.name or capability.submission_details.resources contains tag.name %}
                 <h2><a href="{{ site.baseurl }}{{ capability.url }}">{{ capability.title }}</a></h2>
                 <p>{{ capability.excerpt }}</p>
