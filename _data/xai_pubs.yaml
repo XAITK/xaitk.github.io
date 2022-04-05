@@ -700,9 +700,6 @@
 - citation: "K. He, G. Gkioxari, P. Doll\xE1r and R. Girshick, \"Mask R-CNN,\" in\
     \ ICCV, 2017."
   pub_year: 2017
-- citation: K. He, X. Zhang, S. Ren and J. Sun, "Deep residual learning for image
-    recognition," in CVPR, 2016.
-  pub_year: 2016
 - citation: Kai Zhao and Liang Huang. Joint Syntacto-Discourse Parsing and the Syntacto-Discourse
     Treebank. In Proceedings of EMNLP 2017
   pub_year: 2017
@@ -1043,9 +1040,6 @@
     language and vision using crowdsourced dense image annotations," International
     Journal of Computer Vision, 2017.'
   pub_year: 2017
-- citation: 'R. Olaf, P. Fischer and T. Brox, "U-Net: convolutional networks for biomedical
-    image segmentation," in MICCAI, 2015.'
-  pub_year: 2015
 - citation: 'R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh and D. Batra,
     "Grad-CAM: Visual explanations from deep networks via gradient-based localization.,"
     in ICCV, 2017.'
