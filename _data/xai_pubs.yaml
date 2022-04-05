@@ -1,0 +1,1638 @@
+- citation: " A. Akula, K Wang, C. Liu, S. Saba, H. Lu, S. Todorovic, J. Y. Chai,\
+    \ S-C. Zhu, \u201CX-ToM: Explaining with Theory-of-Mind for Gaining Justified\
+    \ Human Trust\u201D, iScience Cell Press (minor revision) 2021."
+  pub_year: 2021
+- citation: " A. Akula, S. Gella, O. Yaser, S. Reddy, S-C. Zhu, \u201COn the Robustness\
+    \ of Visual Referring Expressions\u201D, submitted to Association for Computational\
+    \ Linguistics (ACL) 2020."
+  pub_year: 2020
+- citation: " A. Akula, S. Wang, S-C. Zhu, \u201CCoCo-X: Generating Conceptual and\
+    \ Counterfactual Explanations via Fault-Lines\u201D, Proceedings of the AAAI Conference\
+    \ on Artificial Intelligence (AAAI), 2020."
+  pub_year: 2020
+- citation: " M. Edmonds*, F. Gao*, H. Liu*, X. Xie*, S. Qi, B. Rothrock, Y. Zhu,\
+    \ Y.N. Wu, H. Lu, and S.-C. Zhu, \u201CA Tale of Two Explanations: Enhancing Human\
+    \ Trust by Explaining Robot Behavior\u201D, Science Robotics, Vol. 4, No. 37,\
+    \ eaay4663, 2019."
+  pub_year: 2019
+- citation: " Q. Zhang, J. Ren, G. Huang, R. Cao, Y. N. Wu, and S-C. Zhu, \u201CMining\
+    \ Interpretable AOG Representations from Convolutional Networks via Active Question\
+    \ Answering\u201D, IEEE Transactions on Pattern Analysis and Machine Intelligence\
+    \ (PAMI, under minor revision), 2020."
+  pub_year: 2020
+- citation: " Q. Zhang, X. Wang, R. Cao, Y. N. Wu, F. Shi, and S-C. Zhu, \u201CExtracting\
+    \ an Explanatory Graph to Interpret a CNN\u201D, IEEE Transactions on Pattern\
+    \ Analysis and Machine Intelligence (PAMI, under minor revision), 2020."
+  pub_year: 2020
+- citation: " Q. Zhang, X. Wang, Y. N. Wu, H. Zhou, and S-C. Zhu, \u201CInterpretable\
+    \ CNNs for Object Classification\u201D, IEEE Transactions on Pattern Analysis\
+    \ and Machine Intelligence (PAMI), Accepted, 2020."
+  pub_year: 2020
+- citation: 'A. Das, H. Agrawal, L. Zitnick, D. Parikh and D. Batra, "Human attention
+    in visual question answering: Do humans and deep networks look at the same regions?,"
+    Computer Vision and Image Understanding, 2017.'
+  pub_year: 2017
+- citation: A. Myronenko, "3D MRI brain tumor segmentation using autoencoder regularization,"
+    in International MICCAI Brainlesion Workshop, 2018.
+  pub_year: 2018
+- citation: 'A. Ray, M. Cogswell, X. Lin, K. Alipour, A. Divakaran, Y. Yao and G.
+    T. Burachas, "Knowing What VQA Does Not: Pointing to Error-Inducing Regions to
+    Improve Explanation Helpfulness," in arXiv:2103.14712, 2021.'
+  pub_year: 2021
+- citation: A. Ray, Y. Yao, R. Kumar, A. Divakaran and G. Burachas, "Can you explain
+    that? Lucid explanations help human-AI collaborative image retrieval," in HCOMP,
+    2019.
+  pub_year: 2019
+- citation: A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez,
+    L. Kaiser and I. Polosukhin, "Attention is all you need.," in arXiv:1706.03762,
+    2017.
+  pub_year: 2017
+- citation: "Abhishek Das, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra\
+    \ \u201CNeural Modular Control for Embodied Question\u201D CoRL 2018 https://arxiv.org/pdf/1810.11181.pdf"
+  pub_year: 2018
+- citation: "Adnan Darwiche and Auguste Hirth. On the Reasons Behind Decisions. In\
+    \ Giuseppe De Giacomo,  Alejandro Catal\xB4a, Bistra Dilkina, Michela Milano,\
+    \ Sen\xB4en Barro, Alberto Bugar\xB4\u0131n, and J\xB4er\u02C6ome Lang,  editors,\
+    \ ECAI 2020 - 24th European Conference on Artificial Intelligence, 29 August-8\
+    \ September  2020, Santiago de Compostela, Spain, August 29 - September 8, 2020\
+    \ - Including 10th Conference on  Prestigious Applications of Artificial Int"
+  pub_year: 2020
+- citation: "Adnan Darwiche. An Advance on Variable Elimination with Applications\
+    \ to Tensor-Based Computation.  In Giuseppe De Giacomo, Alejandro Catal\xB4a,\
+    \ Bistra Dilkina, Michela Milano, Sen\xB4en Barro,  Alberto Bugar\xB4\u0131n,\
+    \ and J\xB4er\u02C6ome Lang, editors, ECAI 2020 - 24th European Conference on\
+    \ Artificial  Intelligence, 29 August-8 September 2020, Santiago de Compostela,\
+    \ Spain, August 29 - September 8,  2020 - Including 10th Conference on Prestigious"
+  pub_year: 2020
+- citation: "Adnan Darwiche. Human-level intelligence or animal-like abilities? Commun.\
+    \ ACM, 61(10):56\u201367, 2018"
+  pub_year: 2018
+- citation: "Adnan Darwiche. Three Modern Roles for Logic in AI. In Dan Suciu, Yufei\
+    \ Tao, and Zhewei Wei,  editors, Proceedings of the 39th ACM SIGMOD-SIGACT-SIGAI\
+    \ Symposium on Principles of Database  Systems, PODS 2020, Portland, OR, USA,\
+    \ June 14-19, 2020, pages 229\u2013243. ACM, 2020"
+  pub_year: 2020
+- citation: "Aishwarya Agrawal, Dhruv Batra, Devi Parikh, and Aniruddha Kembhavi Don\u2019\
+    t Just Assume; Look and \u201CAnswer: Overcoming Priors for Visual Question Answering\u201D\
+    \ CVPR 2018 https://arxiv.org/pdf/1712.00377.pdf"
+  pub_year: 2018
+- citation: "Aishwarya Sivaraman, Golnoosh Farnadi, Todd D. Millstein, and Guy Van\
+    \ den Broeck. Counterexample- Guided Learning of Monotonic Neural Networks. In\
+    \ Hugo Larochelle, Marc\u2019Aurelio Ranzato, Raia Hadsell, Maria-Florina Balcan,\
+    \ and Hsuan-Tien Lin, editors, Advances in Neural Information Processing Systems\
+    \ 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS\
+    \ 2020, December 6-12, 2020, virtual, 2020"
+  pub_year: 2020
+- citation: "Aishwarya Sivaraman, Tianyi Zhang, Guy Van den Broeck, and Miryung Kim.\
+    \ Active inductive logic  programming for code search. In Joanne M. Atlee, Tevfik\
+    \ Bultan, and Jon Whittle, editors, Proceedings  of the 41st International Conference\
+    \ on Software Engineering, ICSE 2019, Montreal, QC, Canada,  May 25-31, 2019,\
+    \ pages 292\u2013303. IEEE / ACM, 2019"
+  pub_year: 2019
+- citation: 'Albert Zhao, Tong He, Yitao Liang, Haibin Huang, Guy Van den Broeck,
+    and Stefano Soatto. LaTeS: Latent Space Distillation for Teacher-Student Driving
+    Policy Learning. CoRR, abs/1912.02973, 2019. eprint: 1912.02973'
+  pub_year: 2019
+- citation: "Alec G. Moore, Ryan P. McMahan, Hailiang Dong, and Nicholas Ruozzi. Extracting\
+    \ Velocity-Based  User-Tracking Features to Predict Learning Gains in a Virtual\
+    \ Reality Training Application. In 2020  IEEE International Symposium on Mixed\
+    \ and Augmented Reality, ISMAR 2020, Recife/Porto de  Galinhas, Brazil, November\
+    \ 9-13, 2020, pages 694\u2013703. IEEE, 2020"
+  pub_year: 2020
+- citation: "Alec G. Moore, Ryan P. McMahan, Hailiang Dong, and Nicholas Ruozzi. Personal\
+    \ Identifiability  of User Tracking Data During VR Training. In IEEE Conference\
+    \ on Virtual Reality and 3D User  Interfaces Abstracts and Workshops, VR Workshops\
+    \ 2021, Lisbon, Portugal, March 27 - April 1, 2021,  pages 556\u2013557. IEEE,\
+    \ 2021"
+  pub_year: 2021
+- citation: "Alyssa M. Pena and Eric D. Ragan. Contextualizing construction accident\
+    \ reports in virtual environments  for safety education. In Evan Suma Rosenberg,\
+    \ David M. Krum, Zachary Wartell, Betty J.  Mohler, Sabarish V. Babu, Frank Steinicke,\
+    \ and Victoria Interrante, editors, 2017 IEEE Virtual Reality,  VR 2017, Los Angeles,\
+    \ CA, USA, March 18-22, 2017, pages 389\u2013390. IEEE Computer Society, 2017"
+  pub_year: 2017
+- citation: Alyssa M. Pena, Ehsanul Haque Nirjhar, Andrew Pachuilo, Theodora Chaspari,
+    and Eric D. Ragan.  Detecting Changes in User Behavior to Understand Interaction
+    Provenance during Visual Data Analysis.  In Christoph Trattner, Denis Parra, and
+    Nathalie Riche, editors, Joint Proceedings of the ACM IUI 2019  Workshops co-located
+    with the 24th ACM Conference on Intelligent User Interfaces (ACM IUI 2019),  Los
+    Angeles, USA, March 20, 2019,
+  pub_year: 2019
+- citation: Alyssa M. Pena, Ehsanul Haque Nirjhar, Andrew Pachuilo, Theodora Chaspari,
+    and Eric D. Ragan. "Detecting Changes in User Behavior to Understand Interaction
+    Provenance during Visual Data Analysis." In IUI Workshops. 2019.
+  pub_year: 2019
+- citation: "Alyssa M. Pe\u02DCna, Eric D. Ragan, and Julian Kang. Designing Educational\
+    \ Virtual Environments for  Construction Safety: A Case Study in Contextualizing\
+    \ Incident Reports and Engaging Learners. In  Jessie Y. C. Chen and Gino Fragomeni,\
+    \ editors, Virtual, Augmented and Mixed Reality. Applications and  Case Studies\
+    \ - 11th International Conference, VAMR 2019, Held as Part of the 21st HCI International\
+    \  Conference, HCII 2019, Orlando, FL,"
+  pub_year: 2019
+- citation: Andrew Anderson, Jonathan Dodge, Amrita Sadarangani, Zoe Juozapaitis,
+    Evan Newman, Jed Irvine, Souti Chattopadhyay, Alan Fern, Margaret Burnett. (accepted).
+    Mental Models of Mere Mortals with Explanations of Reinforcement Learning. ACM
+    Transactions on Interactive Intelligent Systems (TiiS).
+  pub_year: 2020
+- citation: "Andrew Anderson, Jonathan Dodge, Amrita Sadarangani, Zoe Juozapaitis,\
+    \ Evan Newman, Jed Irvine, Souti Chattopadhyay, Alan Fern, and Margaret Burnett.\
+    \ (2019). Explaining Reinforcement Learning to Mere Mortals: An Empirical Study.\
+    \ International Joint Conference on Artificial Intelligence (IJCAI\u201919)."
+  pub_year: 2019
+- citation: "Andy Shih, Adnan Darwiche, and Arthur Choi. Verifying Binarized Neural\
+    \ Networks by Angluin-Style  Learning. In Mikol\xB4as Janota and In\u02C6es Lynce,\
+    \ editors, Theory and Applications of Satisfiability Testing -  SAT 2019 - 22nd\
+    \ International Conference, SAT 2019, Lisbon, Portugal, July 9-12, 2019, Proceedings,\
+    \  volume 11628 of Lecture Notes in Computer Science, pages 354\u2013370. Springer,\
+    \ 2019"
+  pub_year: 2019
+- citation: "Andy Shih, Arthur Choi, and Adnan Darwiche. A Symbolic Approach to Explaining\
+    \ Bayesian Network  Classifiers. In J\xB4er\u02C6ome Lang, editor, Proceedings\
+    \ of the Twenty-Seventh International Joint Conference  on Artificial Intelligence,\
+    \ IJCAI 2018, July 13-19, 2018, Stockholm, Sweden, pages 5103\u20135111. ijcai.org,\
+    \  2018"
+  pub_year: 2018
+- citation: "Andy Shih, Arthur Choi, and Adnan Darwiche. Compiling Bayesian Network\
+    \ Classifiers into Decision  Graphs. In The Thirty-Third AAAI Conference on Artificial\
+    \ Intelligence, AAAI 2019, The Thirty-First  Innovative Applications of Artificial\
+    \ Intelligence Conference, IAAI 2019, The Ninth AAAI Symposium  on Educational\
+    \ Advances in Artificial Intelligence, EAAI 2019, Honolulu, Hawaii, USA, January\
+    \ 27 -  February 1, 2019, pages 7966\u20137974."
+  pub_year: 2019
+- citation: "Andy Shih, Arthur Choi, and Adnan Darwiche. Formal Verification of Bayesian\
+    \ Network Classifiers.  In Milan Studen\xB4y and V\xB4aclav Kratochv\xB4\u0131\
+    l, editors, International Conference on Probabilistic Graphical  Models, PGM 2018,\
+    \ 11-14 September 2018, Prague, Czech Republic, volume 72 of Proceedings of  Machine\
+    \ Learning Research, pages 427\u2013438. PMLR, 2018"
+  pub_year: 2018
+- citation: "Andy Shih, Guy Van den Broeck, Paul Beame, and Antoine Amarilli. Smoothing\
+    \ Structured Decomposable  Circuits. In Hanna M. Wallach, Hugo Larochelle, Alina\
+    \ Beygelzimer, Florence d\u2019Alch\xB4e Buc,  Emily B. Fox, and Roman Garnett,\
+    \ editors, Advances in Neural Information Processing Systems 32:  Annual Conference\
+    \ on Neural Information Processing Systems 2019, NeurIPS 2019, December 8-14,\
+    \  2019, Vancouver, BC, Canada, pages 11412\u201311422, 20"
+  pub_year: 2019
+- citation: 'Anji Liu, Yitao Liang, Ji Liu, Guy Van den Broeck, and Jianshu Chen.
+    On Effective Parallelization of  Monte Carlo Tree Search. CoRR, abs/2006.08785,
+    2020. eprint: 2006.08785'
+  pub_year: 2020
+- citation: "Anji Liu, Yitao Liang, and Guy Van den Broeck. Off-Policy Deep Reinforcement\
+    \ Learning with  Analogous Disentangled Exploration. In Amal El Fallah Seghrouchni,\
+    \ Gita Sukthankar, Bo An, and  Neil Yorke-Smith, editors, Proceedings of the 19th\
+    \ International Conference on Autonomous Agents  and Multiagent Systems, AAMAS\
+    \ \u201920, Auckland, New Zealand, May 9-13, 2020, pages 753\u2013761.  International\
+    \ Foundation for Autonomous Agents and Multia"
+  pub_year: 2020
+- citation: Ankit Anand, Ritesh Noothigattu, Parag Singla, and Mausam. Non-Count Symmetries
+    in Boolean &  Multi-Valued Prob. Graphical Models. In Aarti Singh and Xiaojin
+    (Jerry) Zhu, editors, Proceedings of  the 20th International Conference on Artificial
+    Intelligence and Statistics, AISTATS 2017, 20-22 April  2017, Fort Lauderdale,
+    FL, USA, vol
+  pub_year: 2017
+- citation: Anna L. D. Latour, Behrouz Babaki, Anton Dries, Angelika Kimmig, Guy Van
+    den Broeck, and  Siegfried Nijssen. Combining Stochastic Constraint Optimization
+    and Probabilistic Programming -  From Knowledge Compilation to Constraint Solving.
+    In J. Christopher Beck, editor, Principles and  Practice of Constraint Programming
+    - 23rd International Conference, CP 2017, Melbourne, VIC,  Australia, August 28
+    - September 1, 2017, Proceedings,
+  pub_year: 2017
+- citation: 'Antonio Vergari, YooJung Choi, Anji Liu, Stefano Teso, and Guy Van den
+    Broeck. A Compositional Atlas of Tractable Circuit Operations: From Simple Transformations
+    to Complex Information-Theoretic Queries. CoRR, abs/2102.06137, 2021. eprint:
+    2102.06137'
+  pub_year: 2021
+- citation: Anurag Koul, Sam Greydanus, and Alan Fern. (2018). Toward Learning Finite
+    State Representations of Recurrent Policy Networks. IJCAI Workshop on Explainable
+    Artificial Intelligence.
+  pub_year: 2018
+- citation: 'Anurag Koul, Sam Greydanus, and Alan Fern. (2019). Learning Finite State
+    Representations of Recurrent Policy Networks. International Conference on Learning
+    Representations (ICLR). '
+  pub_year: 2019
+- citation: Arcchit Jain, Tal Friedman, Ondrej Kuzelka, Guy Van den Broeck, and Luc
+    De Raedt. Scalable  Rule Learning in Probabilistic Knowledge Bases. In 1st Conference
+    on Automated Knowledge Base  Construction, AKBC 2019, Amherst, MA, USA, May 20-22,
+    2019, 2019
+  pub_year: 2019
+- citation: 'Arnab Kumar Mondal, Himanshu Asnani, Parag Singla, and Prathosh AP. To
+    Regularize or Not To  Regularize? The Bias Variance Trade-off in Regularized AEs.
+    CoRR, abs/2006.05838, 2020. eprint:  2006.05838'
+  pub_year: 2020
+- citation: "Arnab Kumar Mondal, Sankalan Pal Chowdhury, Aravind Jayendran, Himanshu\
+    \ Asnani, Parag Singla,  and Prathosh A. P. MaskAAE: Latent space optimization\
+    \ for Adversarial Auto-Encoders. In Ryan P.  Adams and Vibhav Gogate, editors,\
+    \ Proceedings of the Thirty-Sixth Conference on Uncertainty in  Artificial Intelligence,\
+    \ UAI 2020, virtual online, August 3-6, 2020, volume 124 of Proceedings of  Machine\
+    \ Learning Research, pages 689\u2013698. AUAI"
+  pub_year: 2020
+- citation: 'Arnab Kumar Mondal, Sankalan Pal Chowdhury, Aravind Jayendran, Parag
+    Singla, Himanshu Asnani,  and Prathosh A. P. Towards Latent Space Optimality for
+    Auto-Encoder Based Generative Models.  CoRR, abs/1912.04564, 2019. eprint: 1912.04564'
+  pub_year: 2019
+- citation: "Arthur Choi and Adnan Darwiche. On Relaxing Determinism in Arithmetic\
+    \ Circuits. In Doina  Precup and Yee Whye Teh, editors, Proceedings of the 34th\
+    \ International Conference on Machine  Learning, ICML 2017, Sydney, NSW, Australia,\
+    \ 6-11 August 2017, volume 70 of Proceedings of  Machine Learning Research, pages\
+    \ 825\u2013833. PMLR, 2017"
+  pub_year: 2017
+- citation: "Arthur Choi and Adnan Darwiche. On the Relative Expressiveness of Bayesian\
+    \ and Neural Networks.  In Milan Studen\xB4y and V\xB4aclav Kratochv\xB4\u0131\
+    l, editors, International Conference on Probabilistic Graphical  Models, PGM 2018,\
+    \ 11-14 September 2018, Prague, Czech Republic, volume 72 of Proceedings of  Machine\
+    \ Learning Research, pages 157\u2013168. PMLR, 2018"
+  pub_year: 2018
+- citation: 'Arthur Choi, Andy Shih, Anchal Goyanka, and Adnan Darwiche. On Symbolically
+    Encoding the  Behavior of Random Forests. CoRR, abs/2007.01493, 2020. eprint:
+    2007.01493'
+  pub_year: 2020
+- citation: "Arthur Choi, Ruocheng Wang, and Adnan Darwiche. On the relative expressiveness\
+    \ of Bayesian and  neural networks. Int. J. Approx. Reason., 113:303\u2013323,\
+    \ 2019"
+  pub_year: 2019
+- citation: "Arthur Choi, Yujia Shen, and Adnan Darwiche. Tractability in Structured\
+    \ Probability Spaces. In Isabelle  Guyon, Ulrike von Luxburg, Samy Bengio, Hanna\
+    \ M.Wallach, Rob Fergus, S. V. N. Vishwanathan, and  Roman Garnett, editors, Advances\
+    \ in Neural Information Processing Systems 30: Annual Conference  on Neural Information\
+    \ Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA, pages  3477\u2013\
+    3485, 2017"
+  pub_year: 2017
+- citation: "Bahador Saket, Arjun Srinivasan, Eric D. Ragan, and Alex Endert. Evaluating\
+    \ Interactive Graphical  Encodings for Data Visualization. IEEE Trans. Vis. Comput.\
+    \ Graph., 24(3):1316\u20131330, 2018"
+  pub_year: 2018
+- citation: 'Bau, David "GAN Dissection: Visualizing and Understanding Generative
+    Adversarial Networks."  ICLR 2019arXiv preprint arXiv:1811.10597 https://openreview.net/pdf?id=Hyg_X2C5FX'
+  pub_year: 2019
+- citation: "Bau, David, Jun-Yan Zhu, Jonas Wulff, William Peebles, Hendrik Strobelt,\
+    \ Bolei Zhou, and Antonio Torralba \u201CSeeing What a GAN Cannot Generate\u201D\
+    \ International Conference on Computer Vision (ICCV), 2019 http://ganseeing.csail.mit.edu/papers/seeing.pdf\
+    \ Keywords: Generative Adversarial Networks (GANs), mode collapse, image segmentation"
+  pub_year: 2019
+- citation: 'Behrooz Mahasseni, Sinisa Todorovic, and Alan Fern. (2017). Budget-Aware
+    Deep Semantic Video Segmentation. IEEE Conference on Computer Vision and Pattern
+    Recognition. '
+  pub_year: 2017
+- citation: "Brett Benda, Shaghayegh Esmaeili, and Eric D. Ragan. Determining Detection\
+    \ Thresholds for Fixed  Positional Offsets for Virtual Hand Remapping in Virtual\
+    \ Reality. In 2020 IEEE International  Symposium on Mixed and Augmented Reality,\
+    \ ISMAR 2020, Recife/Porto de Galinhas, Brazil, November  9-13, 2020, pages 269\u2013\
+    278. IEEE, 2020"
+  pub_year: 2020
+- citation: C. A., V. Prabhu, D. Yadav, P. Chattopadhyay and D. Parikh, "Do explanations
+    make VQA models more predictable to a human?," in EMNLP, 2018.
+  pub_year: 2018
+- citation: C.-H. Chang, E. Creager, A. Goldenberg and D. Duvenaud, "Explaining image
+    classifiers by counterfactual generation," in ICLR, 2019.
+  pub_year: 2019
+- citation: 'Chao Ma, Janardhan Rao Doppa, Prasad Tadepalli, Hamed Shahbazi, and Xiaoli
+    Fern. (2017). Multi-task Structured Prediction for Entity Analysis: Search-based
+    Learning Algorithms. The 9th Asian Conference on Machine Learning. '
+  pub_year: 2017
+- citation: Chen Ziwen, Wenxuan Wu, Zhongang Qi, and Li Fuxin. (2020). Visualizing
+    Point Cloud Classifiers by Curvature Smoothing. British Machine Vision Conference.
+  pub_year: 2020
+- citation: Chiradeep Roy, Mahesh Shanbhag, Mahsan Nourani, Tahrima Rahman, Samia
+    Kabir, Vibhav Gogate,  Nicholas Ruozzi, and Eric D. Ragan. Explainable Activity
+    Recognition in Videos. In Christoph  Trattner, Denis Parra, and Nathalie Riche,
+    editors, Joint Proceedings of the ACM IUI 2019 Workshops  co-located with the
+    24th ACM Conference on Intelligent User Interfaces (ACM IUI 2019), Los Angeles,  USA,
+    March 20, 2019, volume 2327 of CEUR Wor
+  pub_year: 2019
+- citation: "Chiradeep Roy, Tahrima Rahman, Hailiang Dong, Nicholas Ruozzi, and Vibhav\
+    \ Gogate. Dynamic  Cutset Networks. In Arindam Banerjee and Kenji Fukumizu, editors,\
+    \ The 24th International Conference  on Artificial Intelligence and Statistics,\
+    \ AISTATS 2021, April 13-15, 2021, Virtual Event, volume 130  of Proceedings of\
+    \ Machine Learning Research, pages 3106\u20133114. PMLR, 2021"
+  pub_year: 2021
+- citation: Cullen Brown, Ghanshyam Bhutra, Mohamed Suhail, Qinghong Xu, and Eric
+    D. Ragan. Coordinating  attention and cooperation in multi-user virtual reality
+    narratives. In Evan Suma Rosenberg, David M.  Krum, Zachary Wartell, Betty J.
+    Mohler, Sabarish V. Babu, Frank Steinicke, and Victoria Interrante,  editors,
+    2017 IEEE Virtual Reality, VR
+  pub_year: 2017
+- citation: 'Da Tang, Dawen Liang, Nicholas Ruozzi, and Tony Jebara. Learning Correlated
+    Latent Representations with Adaptive Priors. CoRR, abs/1906.06419, 2019. eprint:
+    1906.06419'
+  pub_year: 2019
+- citation: "Da Tang, Dawen Liang, Tony Jebara, and Nicholas Ruozzi. Correlated Variational\
+    \ Auto-Encoders. In Kamalika Chaudhuri and Ruslan Salakhutdinov, editors, Proceedings\
+    \ of the 36th International Conference on Machine Learning, ICML 2019, 9-15 June\
+    \ 2019, Long Beach, California, USA, volume 97 of Proceedings of Machine Learning\
+    \ Research, pages 6135\u20136144. PMLR, 2019"
+  pub_year: 2019
+- citation: "David B. Smith, Sara Rouhani, and Vibhav Gogate. Order Statistics for\
+    \ Probabilistic Graphical Models. In Carles Sierra, editor, Proceedings of the\
+    \ Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI\
+    \ 2017, Melbourne, Australia, August 19-25, 2017, pages 4625\u20134631. ijcai.org,\
+    \ 2017"
+  pub_year: 2017
+- citation: "David Bau, Jun-Yan Zhu, Hendrik Strobelt, Agata Lapedriza, Bolei Zhou,\
+    \ Antonio Torralba.  \u201CUnderstanding the role of individual units in a deep\
+    \ neural network\u201D Proceedings of the National Academy of Sciences (PNAS),\
+    \ 2020"
+  pub_year: 2020
+- citation: 'David Piorkowski, Sean Penney, Austin Henley, Marco Pistoia, Margaret
+    Burnett, Omer Tripp and Pietro Ferrara. (2017). Foraging Goes Mobile: Foraging
+    While Debugging on Mobile Devices. IEEE Symposium on Visual Languages and Human-Centric
+    Computing.'
+  pub_year: 2017
+- citation: "Devendra Singh Chaplot, Lisa Lee, Ruslan Salakhutdinov, Devi Parikh,\
+    \ Dhruv Batra,  \u201CEmbodied Multimodal Multitask Learning\u201D, International\
+    \ Joint Conference on Artificial Intelligence (IJCAI), 2020"
+  pub_year: 2020
+- citation: "Dhrubo Jyoti Paul and Eric D. Ragan. Subtle Gaze Direction with Asymmetric\
+    \ Field-of-View Modulation  in Headworn Virtual Reality. In 2020 IEEE Conference\
+    \ on Virtual Reality and 3D User Interfaces  Abstracts and Workshops, VR Workshops,\
+    \ Atlanta, GA, USA, March 22-26, 2020, pages 569\u2013570. IEEE,  2020"
+  pub_year: 2020
+- citation: "Dinesh Khandelwal, Parag Singla, and Chetan Arora. Learning Higher Order\
+    \ Potentials for MRFs.  In 2018 IEEE Winter Conference on Applications of Computer\
+    \ Vision, WACV 2018, Lake Tahoe, NV,  USA, March 12-15, 2018, pages 812\u2013\
+    820. IEEE Computer Society, 2018"
+  pub_year: 2018
+- citation: Dinu, Jonathan, Jeffrey Bigham, and J. Zico Kolter. "Challenging common
+    interpretability assumptions in feature attribution explanations." arXiv preprint
+    arXiv:2012.02748 (2020).
+  pub_year: 2020
+- citation: 'Donald R. Honeycutt, Mahsan Nourani, and Eric D. Ragan. Soliciting Human-in-the-Loop
+    User  Feedback for Interactive Machine Learning Reduces User Trust and Impressions
+    of Model Accuracy.  CoRR, abs/2008.12735, 2020. eprint: 2008.12735'
+  pub_year: 2020
+- citation: Druce, Jeff, Michael Harradon, and James Tittle. "Explainable Artificial
+    Intelligence (XAI) for Increasing User Trust in Deep Reinforcement Learning Driven
+    Autonomous Systems." arXiv preprint arXiv:2106.03775 (2021).
+  pub_year: 2021
+- citation: 'Druce, Jeff, et al. "Brittle AI, Causal Confusion, and Bad Mental Models:
+    Challenges and Successes in the XAI Program." arXiv preprint arXiv:2106.05506
+    (2021).'
+  pub_year: 2021
+- citation: "Dustin T. Han, Mohamed Suhail, and Eric D. Ragan. Evaluating Remapped\
+    \ Physical Reach for Hand  Interactions with Passive Haptics in Virtual Reality.\
+    \ IEEE Trans. Vis. Comput. Graph., 24(4):1467\u2013  1476, 2018"
+  pub_year: 2018
+- citation: "Dustin T. Han, Shyam Prathish Sargunam, and Eric D. Ragan. Simulating\
+    \ anthropomorphic upper body  actions in virtual reality using head and hand motion\
+    \ data. In Evan Suma Rosenberg, David M. Krum,  Zachary Wartell, Betty J. Mohler,\
+    \ Sabarish V. Babu, Frank Steinicke, and Victoria Interrante, editors,  2017 IEEE\
+    \ Virtual Reality, VR 2017, Los Angeles, CA, USA, March 18-22, 2017, pages 387\u2013\
+    388. IEEE  Computer Society, 2017"
+  pub_year: 2017
+- citation: E. Kerfoot, J. Clough, I. Oksuz, J. Lee, A. P. King and J. A. Schnabel,
+    "Left-ventricle quantification using residual U-Net," in International Workshop
+    on Statistical Atlases and Computational Models of the Heart, 2018.
+  pub_year: 2018
+- citation: "Eric D. Ragan, Andrew Pachuilo, John R. Goodall, and Felipe Bacim. Preserving\
+    \ Contextual Awareness  during Selection of Moving Targets in Animated Stream\
+    \ Visualizations. In Genny Tortora, Giuliana  Vitiello, and MarcoWinckler, editors,\
+    \ AVI \u201920: International Conference on Advanced Visual Interfaces,  Island\
+    \ of Ischia, Italy, September 28 - October 2, 2020, pages 28:1\u201328:9. ACM,\
+    \ 2020"
+  pub_year: 2020
+- citation: "Eric D. Ragan, Andrew S. Stamps, and John R. Goodall. Empirical Study\
+    \ of Focus-Plus-Context and  Aggregation Techniques for the Visualization of Streaming\
+    \ Data. In Genny Tortora, Giuliana Vitiello,  and Marco Winckler, editors, AVI\
+    \ \u201920: International Conference on Advanced Visual Interfaces, Island  of\
+    \ Ischia, Italy, September 28 - October 2, 2020, pages 55:1\u201355:5. ACM, 2020"
+  pub_year: 2020
+- citation: Eric D. Ragan, Hye-Chung Kum, Gurudev Ilangovan, and Han Wang. Balancing
+    Privacy and Information  Disclosure in Interactive Record Linkage with Visual
+    Masking. In Regan L. Mandryk, Mark  Hancock, Mark Perry, and Anna L. Cox, editors,
+    Proceedings of the 2018 CHI Conference on Human  Factors in Computing Systems,
+    CHI 2018, Montreal, QC, Canada, April 21-26, 2018, page 326. ACM,  2018
+  pub_year: 2018
+- citation: "Eric D. Ragan, Siroberto Scerbo, Felipe Bacim, and Doug A. Bowman. Amplified\
+    \ Head Rotation in  Virtual Reality and the Effects on 3D Search, Training Transfer,\
+    \ and Spatial Orientation. IEEE Trans.  Vis. Comput. Graph., 23(8):1880\u2013\
+    1895, 2017"
+  pub_year: 2017
+- citation: 'Eric Wang, Pasha Khosravi, and Guy Van den Broeck. Probabilistic Sufficient
+    Explanations. CoRR, abs/2105.10118, 2021. eprint: 2105.10118'
+  pub_year: 2021
+- citation: "Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi\
+    \ Parikh, Manolis Savva, Dhruv Batra \u201CDecentralized Distributed PPO: Solving\
+    \ PointGoal Navigation\u201D, International Conference on Learning Representations\
+    \ (ICLR), 2020"
+  pub_year: 2020
+- citation: "Eunice Yuh-Jie Chen, Adnan Darwiche, and Arthur Choi. On pruning with\
+    \ the MDL Score. Int. J.  Approx. Reason., 92:363\u2013375, 2018"
+  pub_year: 2018
+- citation: 'Fabian Bolte, Mahsan Nourani, Eric D. Ragan, and Stefan Bruckner. SplitStreams:
+    A Visual Metaphor  for Evolving Hierarchies. CoRR, abs/2002.03891, 2020. eprint:
+    2002.03891'
+  pub_year: 2020
+- citation: Fan Yang, Ninghao Liu, Mengnan Du, Kaixiong Zhou, Shuiwang Ji, Xia Hu.
+    " Deep Neural Networks with Knowledge Instillation." Proceedings of the 2020 SIAM
+    international conference on data mining (SDM). Society for Industrial and Applied
+    Mathematics, 2020.
+  pub_year: 2020
+- citation: Fan Yang, Ninghao Liu, Suhang Wang, and Xia Hu. "Towards Interpretation
+    of Recommender Systems with Sorted Explanation Paths." In 2018 IEEE International
+    Conference on Data Mining (ICDM), pp. 667-676. IEEE, 2018.
+  pub_year: 2018
+- citation: "Fan Yang, Shiva K. Pentyala, Sina Mohseni, Mengnan Du, Hao Yuan, Rhema\
+    \ Linder, Eric D. Ragan, Shuiwang Ji, and Xia (Ben) Hu. XFake: Explainable Fake\
+    \ News Detector with Visualizations. In Ling Liu, Ryen W. White, Amin Mantrach,\
+    \ Fabrizio Silvestri, Julian J. McAuley, Ricardo Baeza-Yates, and Leila Zia, editors,\
+    \ The World Wide Web Conference, WWW 2019, San Francisco, CA, USA, May 13-17,\
+    \ 2019, pages 3600\u20133604. ACM, 2019"
+  pub_year: 2019
+- citation: 'Fan Yang, Shiva K. Pentyala, Sina Mohseni, Mengnan Du, Hao Yuan, Rhema
+    Linder, Eric D. Ragan, Shuiwang Ji, and Xia Ben Hu. "XFake: Explainable Fake News
+    Detector with Visualizations." In The World Wide Web Conference (demo track),
+    pp. 3600-3604. ACM, 2019.'
+  pub_year: 2019
+- citation: Fei Tang, Ryan P. McMahan, Eric D. Ragan, and Tandra T. Allen. Subjective
+    Evaluation of Tactile Fidelity for Single-Finger and Whole-Hand Touch Gestures.
+    In Stephanie J. Lackey and Jessie Chen, editors, Virtual, Augmented and Mixed
+    Reality - 9th International Conference, VAMR 2017, Held as Part of HCI International
+    2017, Vancouver, BC, Canada, July 9-14, 2017, Proceedings, volume 10280 of Lecture
+    Notes in Computer Science, pages
+  pub_year: 2017
+- citation: 'Folke, T., Yang, S.C-H., Anderson, S., & Shafto, P. (2021). Explainable
+    AI for medical imaging: explaining pneumothorax diagnoses with Bayesian teaching.
+    Proc. SPIE 11746, Artificial Intelligence and Machine Learning for Multi-Domain
+    Operations Applications III. doi: 10.1117/12.2585967'
+  pub_year: 2021
+- citation: "Frederic Sala, Shahroze Kabir, Guy Van den Broeck, and Lara Dolecek.\
+    \ Don\u2019t Fear the Bit Flips: Optimized  Coding Strategies for Binary Classification.\
+    \ CoRR, abs/1703.02641, 2017. eprint: 1703.02641"
+  pub_year: 2017
+- citation: "Gagan Madan, Ankit Anand, Mausam, and Parag Singla. Block-Value Symmetries\
+    \ in Probabilistic  Graphical Models. In Amir Globerson and Ricardo Silva, editors,\
+    \ Proceedings of the Thirty-Fourth  Conference on Uncertainty in Artificial Intelligence,\
+    \ UAI 2018, Monterey, California, USA, August  6-10, 2018, pages 886\u2013895.\
+    \ AUAI Press, 2018"
+  pub_year: 2018
+- citation: "Greg Van Buskirk, Benjamin Raichel, and Nicholas Ruozzi. Sparse Approximate\
+    \ Conic Hulls. In  Isabelle Guyon, Ulrike von Luxburg, Samy Bengio, Hanna M. Wallach,\
+    \ Rob Fergus, S. V. N. Vishwanathan,  and Roman Garnett, editors, Advances in\
+    \ Neural Information Processing Systems 30: Annual  Conference on Neural Information\
+    \ Processing Systems 2017, December 4-9, 2017, Long Beach, CA,  USA, pages 2534\u2013\
+    2544, 2017"
+  pub_year: 2017
+- citation: "Gunning, D., Stefik, M., Choi, J., Miller, T., Stumpf, S., Yang, G. \u201C\
+    XAI \u2013 Explainable Artificial Intelligence.\u201D Science Robotics, 18 December\
+    \ 2019. Vol. 4, issue 37."
+  pub_year: 2019
+- citation: "Guy Van den Broeck and Dan Suciu. Query Processing on Probabilistic Data:\
+    \ A Survey. Found. Trends  Databases, 7(3-4):197\u2013341, 2017"
+  pub_year: 2017
+- citation: Guy Van den Broeck, Anton Lykov, Maximilian Schleich, and Dan Suciu. On
+    the Tractability of SHAP  Explanations. In Proceedings of the 35th AAAI Conference
+    on Artificial Intelligence, 2021
+  pub_year: 2021
+- citation: Guy Van den Broeck. From Probabilistic Circuits to Probabilistic Programs
+    and Back. In Ana Paula  Rocha, Luc Steels, and H. Jaap van den Herik, editors,
+    Proceedings of the 13th International Conference  on Agents and Artificial Intelligence,
+    ICAART 2021, Volume 1, Online Streaming, February 4-6, 2021,  page 9. SCITEPRESS,
+    2021
+  pub_year: 2021
+- citation: Hamed Shahbazi, Xiaoli Fern, and Prasad Tadepalli. (2020). Relation Extraction
+    with Explanation. ACL 2020.
+  pub_year: 2020
+- citation: "Hao Xiong and Nicholas Ruozzi. General Purpose MRF Learning with Neural\
+    \ Network Potentials. In Christian Bessiere, editor, Proceedings of the Twenty-Ninth\
+    \ International Joint Conference on Artificial Intelligence, IJCAI 2020, pages\
+    \ 2769\u20132776. ijcai.org, 2020"
+  pub_year: 2020
+- citation: "Hao Xiong, Yuanzhen Guo, Yibo Yang, and Nicholas Ruozzi. One-Shot Inference\
+    \ in Markov Random Fields. In Amir Globerson and Ricardo Silva, editors, Proceedings\
+    \ of the Thirty-Fifth Conference on Uncertainty in Artificial Intelligence, UAI\
+    \ 2019, Tel Aviv, Israel, July 22-25, 2019, volume 115 of Proceedings of Machine\
+    \ Learning Research, pages 102\u2013112. AUAI Press, 2019"
+  pub_year: 2019
+- citation: 'Hao Yuan, Jiliang Tang, Xia Hu, and Shuiwang Ji. "Xgnn: Towards model-level
+    explanations of graph neural networks." In Proceedings of the 26th ACM SIGKDD
+    International Conference on Knowledge Discovery & Data Mining, pp. 430-438. 2020.'
+  pub_year: 2020
+- citation: Hao Yuan, Lei Cai, Xia Hu, Jie Wang, and Shuiwang Ji. "Interpreting image
+    classifiers by generating discrete masks." IEEE Transactions on Pattern Analysis
+    and Machine Intelligence (2020).
+  pub_year: 2020
+- citation: 'Hao Yuan, Lei Cai, Zhengyang Wang, Xia Hu, Shaoting Zhang, and Shuiwang
+    Ji. "Computational modeling of cellular structures using conditional deep generative
+    networks." Bioinformatics 35, no. 12 (2018): 2141-2149.'
+  pub_year: 2018
+- citation: Hao Yuan, Yongjun Chen, Xia Hu, and Shuiwang Ji. "Interpreting Deep Models
+    for Text Analysis via Optimization and Regularization Methods." In AAAI Conference
+    on Artificial Intelligence (AAAI). 2019.
+  pub_year: 2019
+- citation: 'Happy Mittal, Ayush Bhardwaj, Vibhav Gogate, and Parag Singla. Domain
+    Aware Markov Logic  Networks. CoRR, abs/1807.01082, 2018. eprint: 1807.01082'
+  pub_year: 2018
+- citation: "Happy Mittal, Ayush Bhardwaj, Vibhav Gogate, and Parag Singla. Domain-Size\
+    \ Aware Markov Logic  Networks. In Kamalika Chaudhuri and Masashi Sugiyama, editors,\
+    \ The 22nd International Conference  on Artificial Intelligence and Statistics,\
+    \ AISTATS 2019, 16-18 April 2019, Naha, Okinawa, Japan,  volume 89 of Proceedings\
+    \ of Machine Learning Research, pages 3216\u20133224. PMLR, 2019"
+  pub_year: 2019
+- citation: "Haroun Habeeb, Ankit Anand, Mausam, and Parag Singla. Coarse-to-Fine\
+    \ Lifted MAP Inference  in Computer Vision. In Carles Sierra, editor, Proceedings\
+    \ of the Twenty-Sixth International Joint  Conference on Artificial Intelligence,\
+    \ IJCAI 2017, Melbourne, Australia, August 19-25, 2017, pages  4595\u20134602.\
+    \ ijcai.org, 2017"
+  pub_year: 2017
+- citation: Harradon, Michael, Jeff Druce, and Brian Ruttenberg. "Causal learning
+    and explanation of deep neural networks via autoencoded activations." arXiv preprint
+    arXiv:1802.00541 (2018).
+  pub_year: 2018
+- citation: "Harsh Agrawal, Karan Desai, Yufei Wang, Xinlei Chen, Rishabh Jain, Mark\
+    \ Johnson, Dhruv Batra, Devi Parikh, Stefan Lee, Peter Anderson \u201Cnocaps:\
+    \ novel object captioning at scale\u201D International Conference on Computer\
+    \ Vision (ICCV), 2019 https://arxiv.org/abs/1812.08658 Keywords: Computer Vision\
+    \ and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Computation\
+    \ and Language (cs.CL); Machine Learning (cs.LG)"
+  pub_year: 2019
+- citation: 'Harvineet Singh, Amitabha Bagchi, and Parag Singla. Learning User Representations
+    in Online Social  Networks using Temporal Dynamics of Information Diffusion. CoRR,
+    abs/1710.07622, 2017. eprint:  1710.07622'
+  pub_year: 2017
+- citation: Helen Chen, Sophie Engle, Alark Joshi, Eric D. Ragan, Beste F. Yuksel,
+    and Lane Harrison. Using  Animation to Alleviate Overdraw in Multiclass Scatterplot
+    Matrices. In Regan L. Mandryk, Mark  Hancock, Mark Perry, and Anna L. Cox, editors,
+    Proceedings of the 2018 CHI Conference on Human  Factors in Computing Systems,
+    CHI 2018, Montreal, QC, Canada, April 21-26, 2018, page 417. ACM,  2018
+  pub_year: 2018
+- citation: Hoffman, R.R. (2021)."Eggsplaining AI." Concept Blog at [https://www.ihmc.us/hoffmans-concept-blog/]
+  pub_year: 2021
+- citation: 'Hoffman, R.R., Mueller, S. T., and Klein, G. (2017, July/August). Explaining
+    Explanation, Part 2: Empirical Foundations. IEEE Intelligent Systems, pp. 78-86.'
+  pub_year: 2017
+- citation: 'Hoffman, R.R., Mueller, S.T., Klein, G., and Clancey, W.J. (2018, May/June).
+    Explaining Explanation Part 4: A Deep Dive on Deep Nets. IEEE: Intelligent Systems,
+    pp. 87-95.'
+  pub_year: 2018
+- citation: 'Hoffman, R.R., and Klein, G. (2017, May/June). Explaining Explanation,
+    Part 1: Theoretical Foundations. IEEE Intelligent Systems, pp. 68-73.'
+  pub_year: 2017
+- citation: 'Honghua Zhang, Brendan Juba, and Guy Van den Broeck. Probabilistic Generating
+    Circuits. CoRR, abs/2102.09768, 2021. eprint: 2102.09768'
+  pub_year: 2021
+- citation: "Honghua Zhang, Steven Holtzen, and Guy Van den Broeck. On the Relationship\
+    \ Between Probabilistic Circuits and Determinantal Point Processes. In Ryan P.\
+    \ Adams and Vibhav Gogate, editors, Proceedings of the Thirty-Sixth Conference\
+    \ on Uncertainty in Artificial Intelligence, UAI 2020, virtual online, August\
+    \ 3-6, 2020, volume 124 of Proceedings of Machine Learning Research, pages 1188\u2013\
+    1197. AUAI Press, 2020"
+  pub_year: 2020
+- citation: Hongyang Gao, Hao Yuan, Zhengyang Wang, and Shuiwang Ji. "Pixel Transposed
+    Convolutional Networks." IEEE transactions on pattern analysis and machine intelligence
+    (2019).
+  pub_year: 2019
+- citation: Hongyang Gao, Zhengyang Wang, and Shuiwang Ji. "Large-scale learnable
+    graph convolutional networks." In Proceedings of the 24th ACM SIGKDD International
+    Conference on Knowledge Discovery & Data Mining, pp. 1416-1424. ACM, 2018.
+  pub_year: 2018
+- citation: 'Hye-Chung Kum, Eric D. Ragan, Gurudev Ilangovan, Mahin Ramezani, Qinbo
+    Li, and Cason Schmit.  Enhancing Privacy through an Interactive On-demand Incremental
+    Information Disclosure Interface:  Applying Privacy-by-Design to Record Linkage.
+    In Heather Richter Lipford, editor, Fifteenth Symposium  on Usable Privacy and
+    Security, SOUPS 2019, Santa Clara, CA, USA, August 11-13, 2019.  USENIX Association,
+    2019'
+  pub_year: 2019
+- citation: 'Hye-Chung Kum, Eric D. Ragan, Gurudev Ilangovan, Mahin Ramezani, Qinbo
+    Li, and Cason Schmit. "Enhancing Privacy through an Interactive On-demand Incremental
+    Information Disclosure Interface: Applying Privacy-by-Design to Record Linkage."
+    In Fifteenth Symposium on Usable Privacy and Security (SOUPS 2019). 2019.'
+  pub_year: 2019
+- citation: "J. Dodge, S. Penney, C. Hilderbrand, A. Anderson, and M. Burnett. (2017).\
+    \ How the Experts Do It: Assessing and Explaining Agent Behaviors in Real-Time\
+    \ Strategy Games. In Proceedings of the SIGCHI Conference on Human Factors in\
+    \ Computing Systems (CHI \u201818). ACM."
+  pub_year: 2017
+- citation: J. Yu, Z. Lin, J. Yang, X. Shen, X. Lu and T. Huang, "Free-form image
+    inpainting with gated convolution," in ICCV, 2019.
+  pub_year: 2019
+- citation: J. Yu, Z. Lin, J. Yang, X. Shen, X. Lu and T. S. Huang, "Generative image
+    inpainting with contextual attention," in CVPR, 2018.
+  pub_year: 2018
+- citation: 'Jeremy E. Block and Eric D. Ragan. Micro-entries: Encouraging Deeper
+    Evaluation of Mental Models  Over Time for Interactive Data Systems. In Anastasia
+    Bezerianos, Kyle Wm Hall, Samuel Huron,  Matthew Kay, Miriah Meyer, and Michael
+    Sedlmair, editors, IEEE Workshop on Evaluation and Beyond  - Methodological Approaches
+    to Visualization,'
+  pub_year: 2020
+- citation: "Jialin Wu, Liyan Chen, Raymond J. Mooney \u201CImproving VQA and its\
+    \ Explanations by Comparing Competing Explanations\u201D The AAAI Workshop on\
+    \ Explainable Agency in Artificial Intelligence, February 2021. http://www.cs.utexas.edu/~ai-lab/pub-view.php?PubID=127839"
+  pub_year: 2021
+- citation: "Jialin Wu, Raymond J Mooney \u201CFaithful Multimodal Explanation for\
+    \ Visual Question Answering\u201D https://arXiv:1809.02805.pdf"
+  pub_year: 2019
+- citation: "Jianwei Yang, Jiasen Lu, Stefan Lee, Dhruv Batra, and Devi Parikh \u201C\
+    Graph R-CNN for Scene Graph Generation\u201D ECCV 2018 https://arxiv.org/pdf/1808.00191.pdf"
+  pub_year: 2018
+- citation: "Jianwei Yang, Jiasen Lu, Stefan Lee, Dhruv Batra, and Devi Parikh \u201C\
+    Learning to Ask Questions to Learn Visual Recognition\u201D  CoRL 2018 https://arxiv.org/pdf/1810.00912.pdf"
+  pub_year: 2018
+- citation: "Jianwei Yang, Zhile Ren, Mingze Xu, Xinlei Chen, David Crandall, Devi\
+    \ Parikh, Dhruv Batra \u201CEmbodied Visual Recognition\u201D International Conference\
+    \ on Computer Vision (ICCV), 2019 https://arxiv.org/abs/1904.04404 Keywords: Computer\
+    \ Vision and Pattern Recognition (cs.CV); Artificial Intelligence (cs.AI); Machine\
+    \ Learning (cs.LG); Robotics (cs.RO)"
+  pub_year: 2019
+- citation: 'Jiasen Lu, Dhruv Batra, Devi Parikh, Stefan Lee ViLBERT: Pretraining
+    Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks Neural
+    Information Processing Systems (NeurIPS), 2019 https://arxiv.org/abs/1908.02265
+    Keywords : Computer Vision and Pattern Recognition (cs.CV); Computation and Language
+    (cs.CL)'
+  pub_year: 2019
+- citation: "Jiasen Lu, Jianwei Yang, Dhruv Batra, and Devi Parikh \u201CNeural Baby\
+    \ Talk\u201D CVPR 2018 https://arxiv.org/pdf/1803.09845.pdf"
+  pub_year: 2018
+- citation: "Jiasen Lu, Vedanuj Goswami, Marcus Rohrbach, Devi Parikh, Stefan Lee\
+    \ \u201C12-in-1: Multi-Task Vision and Language Representation Learning\u201D\
+    \ IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020"
+  pub_year: 2020
+- citation: "Jingyi Xu, Zilu Zhang, Tal Friedman, Yitao Liang, and Guy Van den Broeck.\
+    \ A Semantic Loss Function for Deep Learning with Symbolic Knowledge. In Jennifer\
+    \ G. Dy and Andreas Krause, editors, Proceedings of the 35th International Conference\
+    \ on Machine Learning, ICML 2018, Stockholmsm\xA8assan, Stockholm, Sweden, July\
+    \ 10-15, 2018, volume 80 of Proceedings of Machine Learning Research, pages 5498\u2013\
+    5507. PMLR, 2018"
+  pub_year: 2018
+- citation: Jinxue Zhang, Jingchao Sun, Rui Zhang, Yanchao Zhang, and Xia Hu. "Privacy-preserving
+    social media data outsourcing." In IEEE INFOCOM 2018-IEEE Conference on Computer
+    Communications, pp. 1106-1114. IEEE, 2018.
+  pub_year: 2018
+- citation: "John R. Goodall, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David\
+    \ Richardson, Kelly M. T.  Huffer, Robert A. Bridges, and Jason A. Laska. Situ:\
+    \ Identifying and Explaining Suspicious Behavior  in Networks. IEEE Trans. Vis.\
+    \ Comput. Graph., 25(1):204\u2013214, 2019"
+  pub_year: 2019
+- citation: 'John R. Goodall, Eric D. Ragan, Chad A. Steed, Joel W. Reed, G. David
+    Richardson, Kelly MT Huffer, Robert A. Bridges, and Jason A. Laska. "Situ: Identifying
+    and explaining suspicious behavior in networks." IEEE transactions on visualization
+    and computer graphics 25, no. 1 (2018): 204-214.'
+  pub_year: 2018
+- citation: 'Jonathan Dodge and Margaret Burnett. (2020). Position: We Can Measure
+    XAI Explanations Better with "Templates". IUI ExSS-ATEC Workshop.'
+  pub_year: 2020
+- citation: 'Jonathan Dodge, Q. Vera Liao, Yunfeng Zhang, Rachel Bellamy, Casey Dugan,
+    and Bhanukiran Vinzamuri . (2019). Explaining Models: An Empirical Study of How
+    Explanations Impact Fairness Judgment. International Conference on Intelligent
+    User Interfaces (IUI) '
+  pub_year: 2019
+- citation: "Jonathan Dodge, Q. Vera Liao, Yunfeng Zhang, Rachel K. E. Bellamy, and\
+    \ Casey Dugan. (2019). Explaining Models: An Empirical Study of How Explanations\
+    \ Impact Fairness Judgment. International Conference on Intelligent User Interfaces\
+    \ (IUI \u201919)."
+  pub_year: 2019
+- citation: Jonathan Dodge, Roli Khanna, Jed Irvine, Kin-Ho Lam, Theresa Mai, Zhengxian
+    Lin, Nicholas Kiddle, Evan Newman, Andrew Anderson, Sai Raja, Caleb Matthews,
+    Christopher Perdriau, Margaret Burnett, and Alan Fern. (to appear). After-Action
+    Review for AI (AAR/AI). ACM Transactions on Interactive Intelligent Systems.
+  pub_year: 2021
+- citation: Jonathan Dodge, Sean Penney, Andrew Anderson, and Margaret Burnett. (2018).
+    What Should Be in an XAI Explanation? What IFT Reveals. IUI Workshop on Explainable
+    Smart Systems.
+  pub_year: 2018
+- citation: Juneki Hong and Liang Huang. (2018). Linear-Time Constituency Parsing
+    with RNNs and Dynamic Programming. In Proceedings of ACL 2018.
+  pub_year: 2018
+- citation: K. Alipour, A. Ray, X. Lin, J. P. Schulze, Y. Yao and G. T. Burachas,
+    "The Impact of Explanations on AI Competency Prediction in VQA.," in HCCAI, 2020.
+  pub_year: 2020
+- citation: K. Alipour, J. P. Schulze, Y. Yao, A. Ziskind and G. Burachas, "A study
+    on multimodal and interactive explanations for visual question answering," in
+    arXiv:2003.00431.
+  pub_year: 2020
+- citation: "K. He, G. Gkioxari, P. Doll\xE1r and R. Girshick, \"Mask R-CNN,\" in\
+    \ ICCV, 2017."
+  pub_year: 2017
+- citation: Kai Zhao and Liang Huang. Joint Syntacto-Discourse Parsing and the Syntacto-Discourse
+    Treebank. In Proceedings of EMNLP 2017
+  pub_year: 2017
+- citation: 'Kareem Ahmed, Eric Wang, Guy Van den Broeck, and Kai-Wei Chang. Leveraging
+    Unlabeled Data  for Entity-Relation Extraction through Probabilistic Constraint
+    Satisfaction. CoRR, abs/2103.11062,  2021. eprint: 2103.11062'
+  pub_year: 2021
+- citation: "Karthic Madanagopal, Eric D. Ragan, and Perakath C. Benjamin. Analytic\
+    \ Provenance in Practice: The  Role of Provenance in Real-World Visualization\
+    \ and Data Analysis Environments. IEEE Computer  Graphics and Applications, 39(6):30\u2013\
+    45, 2019"
+  pub_year: 2019
+- citation: "Kasra Rahimi Moghadam and Eric D. Ragan. Towards understanding scene\
+    \ transition techniques in  immersive 360 movies and cinematic experiences. In\
+    \ Evan Suma Rosenberg, David M. Krum, Zachary  Wartell, Betty J. Mohler, Sabarish\
+    \ V. Babu, Frank Steinicke, and Victoria Interrante, editors, 2017 IEEE  Virtual\
+    \ Reality, VR 2017, Los Angeles, CA, USA, March 18-22, 2017, pages 375\u2013376.\
+    \ IEEE Computer  Society, 2017"
+  pub_year: 2017
+- citation: "Kasra Rahimi Moghadam, Colin Banigan, and Eric D. Ragan. Scene Transitions\
+    \ and Teleportation in  Virtual Reality and the Implications for Spatial Awareness\
+    \ and Sickness. IEEE Trans. Vis. Comput.  Graph., 26(6):2273\u20132287, 2020"
+  pub_year: 2020
+- citation: Kin-Ho Lam, Zhengxian Lin, Jed Irvine, Jonathan Dodge, Zeyad T Shureih,
+    Roli Khanna, Minsuk Kahng, and Alan Fern. (2020). Identifying Reasoning Flaws
+    in Planning-Based RL Using Tree Explanations. IJCAI-PRICAI 2020 Workshop on Explainable
+    Artificial Intelligence.
+  pub_year: 2020
+- citation: 'Klein, G. (2018, September). Explaining Explanation, Part 3: The Causal
+    Landscape. IEEE Intelligent Systems, pp. 83-88.'
+  pub_year: 2018
+- citation: 'Klein, G. (2020). "AIQ: Artificial Intelligence Quotient: Helping People
+    Get Smarter About Smart Machines" Psychology Today Blog.'
+  pub_year: 2020
+- citation: 'Klein, G. (2021). "The Discovery Platform: A Tool for Exploring Intelligent
+    Systems." Psychology Today Blog.'
+  pub_year: 2021
+- citation: Krzysztof Gajowniczek, Yitao Liang, Tal Friedman, Tomasz Zabkowski, and
+    Guy Van den Broeck.  Semantic and Generalized Entropy Loss Functions for Semi-Supervised
+    Deep Learning. Entropy,  22(3):334, 2020
+  pub_year: 2020
+- citation: Laura Isabel Galindez Olascoaga, Wannes Meert, Nimish Shah, Guy Van den
+    Broeck, and Marian  Verhelst. Discriminative Bias for Learning Probabilistic Sentential
+    Decision Diagrams. In Michael R.  Berthold, Ad Feelders, and Georg Krempl, editors,
+    Advances in Intelligent Data Analysis XVIII - 18th  International Symposium on
+    Intelligent Data Analysis, IDA 2020, Konstanz, Germany, April 27-29,  2020, Proceedings,
+    volume 12080 of Lectu
+  pub_year: 2020
+- citation: "Laura Isabel Galindez Olascoaga, Wannes Meert, Nimish Shah, Marian Verhelst,\
+    \ and Guy Van den  Broeck. Towards Hardware-Aware Tractable Learning of Probabilistic\
+    \ Models. In Hanna M. Wallach,  Hugo Larochelle, Alina Beygelzimer, Florence d\u2019\
+    Alch\xB4e Buc, Emily B. Fox, and Roman Garnett, editors,  Advances in Neural Information\
+    \ Processing Systems 32: Annual Conference on Neural Information  Processing Systems\
+    \ 2019, NeurIPS 2019, Decemb"
+  pub_year: 2019
+- citation: 'Lawrence Neal, Matthew Olson, Xiaoli Fern, Weng-Keen Wong, Fuxin Li.
+    (2018). Open Set Learning with Counterfactual Images. European Conference on Computer
+    Vision (ECCV). '
+  pub_year: 2018
+- citation: Lei Cai, Zhengyang Wang, Hongyang Gao, Dinggang Shen, and Shuiwang Ji.
+    "Deep adversarial learning for multi-modality missing data completion." In Proceedings
+    of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data
+    Mining, pp. 1158-1166. ACM, 2018.
+  pub_year: 2018
+- citation: 'Li Chou, Pracheta Sahoo, Somdeb Sarkhel, Nicholas Ruozzi, and Vibhav
+    Gogate. Automatic Parameter  Tying: A New Approach for Regularized Parameter Learning
+    in Markov Networks. In Sheila A.  McIlraith and Kilian Q. Weinberger, editors,
+    Proceedings of the Thirty-Second AAAI Conference on  Artificial Intelligence,
+    (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18),  and
+    the 8th AAAI Symposium on Educatio'
+  pub_year: 2018
+- citation: "Li Chou, Wolfgang Gatterbauer, and Vibhav Gogate. Dissociation-Based\
+    \ Oblivious Bounds for  Weighted Model Counting. In Amir Globerson and Ricardo\
+    \ Silva, editors, Proceedings of the Thirty-  Fourth Conference on Uncertainty\
+    \ in Artificial Intelligence, UAI 2018, Monterey, California, USA,  August 6-10,\
+    \ 2018, pages 866\u2013875. AUAI Press, 2018"
+  pub_year: 2018
+- citation: Liang Huang, Kai Zhao and Mingbo Ma. (2017). When to Finish? Optimal Beam
+    Search for Neural Text Generation (modulo beam size). Proceedings of EMNLP.
+  pub_year: 2017
+- citation: "Liu, Steven, Tongzhou Wang, David Bau, Jun-Yan Zhu, and Antonio Torralba\
+    \ \u201CDiverse Image Generation via Self-Conditioned GANs\u201D Proceedings of\
+    \ the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 14286-14295,\
+    \ 2020"
+  pub_year: 2020
+- citation: "Lovish Madaan, Ankur Sharma, Praneet Khandelwal, Shivank Goel, Parag\
+    \ Singla, and Aaditeshwar  Seth. Price forecasting & anomaly detection for agricultural\
+    \ commodities in India. In Jay Chen, Jennifer  Mankoff, and Carla P. Gomes, editors,\
+    \ Proceedings of the Conference on Computing & Sustainable  Societies, COMPASS\
+    \ 2019, Accra, Ghana, July 3-5, 2019, pages 52\u201364. ACM, 2019"
+  pub_year: 2019
+- citation: "Lovish Madaan, Soumya Sharma, and Parag Singla. Transfer Learning for\
+    \ Related Languages:  Submissions to the WMT20 Similar Language Translation Task.\
+    \ In Lo\xA8\u0131c Barrault, Ondrej Bojar, Fethi  Bougares, Rajen Chatterjee,\
+    \ Marta R. Costa-juss`a, Christian Federmann, Mark Fishel, Alexander  Fraser,\
+    \ Yvette Graham, Paco Guzman, Barry Haddow, Matthias Huck, Antonio Jimeno-Yepes,\
+    \ Philipp  Koehn, Andr\xB4e Martins, Makoto Morishita, Christof M"
+  pub_year: 2020
+- citation: Lu, C-K & Shafto, P. (preprint). Multi-source deep Gaussian Process kernel
+    learning.
+  pub_year: 2020
+- citation: Lu, C-K, Yang, S, C-H, Hao, X., & Shafto, P. (2020). Interpretable deep
+    Gaussian Processes with moments. Proceedings of the 23rd international conference
+    on Artificial Intelligence and Statistics (AISTATS).
+  pub_year: 2020
+- citation: Lu, C-K. Yang, S.C-H., & Shafto, P. (2018). Standing wave decomposition
+    Gaussian Process. Physical Review E, 98, 032303.
+  pub_year: 2018
+- citation: "Mahsan Nourani, Chiradeep Roy, Jeremy E. Block, Donald R. Honeycutt,\
+    \ Tahrima Rahman, Eric D.  Ragan, and Vibhav Gogate. Anchoring Bias Affects Mental\
+    \ Model Formation and User Reliance in  Explainable AI Systems. In Tracy Hammond,\
+    \ Katrien Verbert, Dennis Parra, Bart P. Knijnenburg,  John O\u2019Donovan, and\
+    \ Paul Teale, editors, IUI \u201921: 26th International Conference on Intelligent\
+    \ User  Interfaces, College Station, TX, USA, April 13-17"
+  pub_year: 2021
+- citation: "Mahsan Nourani, Chiradeep Roy, Tahrima Rahman, Eric D. Ragan, Nicholas\
+    \ Ruozzi, and Vibhav  Gogate. Don\u2019t Explain without Verifying Veracity: An\
+    \ Evaluation of Explainable AI with Video  Activity Recognition. CoRR, abs/2005.02335,\
+    \ 2020. eprint: 2005.02335"
+  pub_year: 2020
+- citation: "Mahsan Nourani, Donald R. Honeycutt, Jeremy E. Block, Chiradeep Roy,\
+    \ Tahrima Rahman, Eric D.  Ragan, and Vibhav Gogate. Investigating the Importance\
+    \ of First Impressions and Explainable AI with  Interactive Video Analysis. In\
+    \ Regina Bernhaupt, Florian \u2019Floyd\u2019 Mueller, David Verweij, Josh Andres,\
+    \  Joanna McGrenere, Andy Cockburn, Ignacio Avellino, Alix Goguey, Pernille Bj\xF8\
+    n, Shengdong Zhao,  Briane Paul Samson, and Rafal Kocielnik"
+  pub_year: 2020
+- citation: 'Mahsan Nourani, Joanie T. King, and Eric D. Ragan. The Role of Domain
+    Expertise in User Trust  and the Impact of First Impressions with Intelligent
+    Systems. CoRR, abs/2008.09100, 2020. eprint:  2008.09100'
+  pub_year: 2020
+- citation: Mandana Hamidi-Haines, Robby Goetshalchx, Prasad Tadepalli, and Alan Fern.
+    (2017). Active Multi-Label Learning with Varying Query Sets. Picky Learners Workshop
+    at the International Conference on Machine Learning.
+  pub_year: 2017
+- citation: 'Mandana Hamidi-Haines, Robby Goetshalchx, Prasad Tadepalli, and Alan
+    Fern. (2017). Adaptive Submodularity with Varying Query Sets: An Application to
+    Active Multi-label Learning. International Conference on Algorithmic Learning
+    Theory.'
+  pub_year: 2017
+- citation: 'Mandana Hamidi-Haines, Zhongang Qi, Alan Fern, Fuxin Li, Prasad Tadepalli.
+    (2019). Interactive Naming for Explaining Deep Neural Networks: A Formative Study.
+    IUI Workshop on EXplainable Smart Systems (EXSS).'
+  pub_year: 2019
+- citation: 'Margaret Burnett, Todd Kulesza, Alannah Oleson, Shannon Ernst, Laura
+    Beckwith, Jill Cao, William Jernigan, Valentina Grigoreanu . (2017). Toward Theory-Based
+    End-User Software Engineering. in New Perspectives in End-User Development (F.
+    Paterno and V. Wulf, eds.), 2017. '
+  pub_year: 2017
+- citation: "Margaret Burnett. (2020). Abstract: Explaining AI: Fairly? Well?. Extended\
+    \ Abstract of Keynote at ACM IUI\u201920."
+  pub_year: 2020
+- citation: 'Margaret Burnett. (2021). Doing Remote Controlled Studies with Humans:
+    Tales from the COVID Trenches. ACM/IEEE 14th International Conference on Cooperative
+    and Human Aspects of Software Engineering (CHASE 2021).'
+  pub_year: 2021
+- citation: Martin Erwig and Prashant Kumar. (2021). Explainable Dynamic Programming.
+    Journal of Functional Programming, Volume 31, e10, 2021.
+  pub_year: 2021
+- citation: Martin Erwig, Alan Fern, Magesh Murali, and Anurag Koul. (2018). Explaining
+    Deep Adaptive Programs via Reward Decomposition. IJCAI Workshop on Explainable
+    Artificial Intelligence.
+  pub_year: 2018
+- citation: Martin Erwig, Prashant Kumar, and Alan Fern. (2020). Explanations for
+    Dynamic Programming. Symposium on Practical Aspects of Declarative Languages (PADL).
+  pub_year: 2020
+- citation: Md Amran Siddiqui, Alan Fern, Thomas Dietterich, and Weng-Keen Wong. (2018).
+    Sequential Feature Explanations for Anomaly Detection. ACM Transactions on Knowledge
+    Discovery from Data.
+  pub_year: 2018
+- citation: "Meet Shah, Xinlei Chen, Marcus Rohrbach, Devi Parikh. \u201CCycle-Consistency\
+    \ for Robust Visual Question Answering.\u201D CVPR 2019 https://arxiv.org/pdf/1902.05660.pdf\
+    \ Ramakrishna Vedantam, Karan Desai, Stefan Lee, Marcus Rohrbach, Dhruv Batra,\
+    \ Devi Parikh. \"Probabilistic Neural-symbolic Models for Interpretable Visual\
+    \ Question Answering.\"  ICML Conference 2019 https://arXiv:1902.07864.ppdf"
+  pub_year: 2019
+- citation: "Meihua Dang, Antonio Vergari, and Guy Van den Broeck. Strudel: Learning\
+    \ structured-decomposable  probabilistic circuits. In Manfred Jaeger and Thomas\
+    \ Dyhre Nielsen, editors, Proceedings of the 10th  International Conference on\
+    \ Probabilistic Graphical Models, volume 138 of Proceedings of Machine  Learning\
+    \ Research, pages 137\u2013148. PMLR, 23\u201325 Sep 2020"
+  pub_year: 2020
+- citation: Mengnan Du, Ninghao Liu,  Xia Hu, "Techniques for Interpretable Machine
+    Learning",  Communications of the ACM (CACM), 2020
+  pub_year: 2020
+- citation: Mengnan Du, Ninghao Liu, Fan Yang, Shuiwang Ji, and Xia Hu. "On Attribution
+    of Recurrent Neural Network Predictions via Additive Decomposition." In The World
+    Wide Web Conference, pp. 383-393. ACM, 2019.
+  pub_year: 2019
+- citation: Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. "Learning Credible Deep
+    Neural Networks with Rationale Regularization." In IEEE International Conference
+    on Data Mining (ICDM), IEEE, 2019.
+  pub_year: 2019
+- citation: Mengnan Du, Ninghao Liu, Qingquan Song, and Xia Hu. "Towards explanation
+    of dnn-based prediction with guided feature inversion." In Proceedings of the
+    24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining,
+    pp. 1358-1367. ACM, 2018.
+  pub_year: 2018
+- citation: Mingbo Ma, Dapeng Li, Kai Zhao and Liang Huang. (2017). OSU Multimodal
+    Machine Translation System Report. Proceedings of the Second Conference on Machine
+    Translation.
+  pub_year: 2017
+- citation: Mingbo Ma, Kai Zhao, Liang Huang, Bing Xiang, Bowen Zhou. (2017). Jointly
+    Trained Sequential Labeling and Classification by Sparse Attention Neural Networks.
+    Proceedings of Interspeech.
+  pub_year: 2017
+- citation: Mingbo Ma, Liang Huang, Bing Xiang, Bowen Zhou. (2017). Group Sparse CNNs
+    for Question Classification with Answer Sets. Proceedings of ACL 2017.
+  pub_year: 2017
+- citation: Mingbo Ma, Renjie Zheng, and Liang Huang. (2019). Learning to Stop in
+    Structured Prediction for Neural Machine Translation. Proceedings of NAACL.
+  pub_year: 2019
+- citation: "Mitsopoulos K., Somers, S., Thomson, R., Lebiere, C.\_\u201CCognitive\
+    \ Architectures for Introspecting Deep Reinforcement Learning Agents.\u201D\_\
+    Accepted for presentation at the workshop on Bridging AI and Cognitive Science,\
+    \ at the 8th International Conference on Learning Representations (ICLR2020).\_"
+  pub_year: 2020
+- citation: 'Mohamad Danesh, Anurag Koul, Alan Fern, and Saeed Khorram. (2021). Re-Understanding
+    Finite-State Representations of Recurrent Policy Networks. International Conference
+    on Machine Learning (ICML-2021). '
+  pub_year: 2021
+- citation: 'Mohamad Danesh, Anurag Koul, Alan Fern. (2020). and Understanding Finite-State
+    Representations of Recurrent Policy Networks. ICML 2020 Workshop on XXAI: Extending
+    Explainable AI Beyond Deep Models and Classifiers'
+  pub_year: 2020
+- citation: "Mohamed Suhail Mohamed Yousuf Sait, Shyam Prathish Sargunam, Dustin T.\
+    \ Han, and Eric D. Ragan.  Physical hand interaction for controlling multiple\
+    \ virtual objects in virtual reality. In Prabhakaran  Balakrishnan and Ryan P.\
+    \ McMahan, editors, Proceedings of the 3rd International Workshop on  Interactive\
+    \ and Spatial Computing, IWISC 2018, Richardson, TX, USA, April 12-13, 2018, pages\
+    \ 64\u201374.  ACM, 2018"
+  pub_year: 2018
+- citation: "Mohamed Suhail, Shyam Prathish Sargunam, Dustin T. Han, and Eric D. Ragan.\
+    \ Redirected reach in virtual reality: Enabling natural hand interaction at multiple\
+    \ virtual locations with passive haptics. In Maud Marchal, Robert J. Teather,\
+    \ and Bruce H. Thomas, editors, 2017 IEEE Symposium on 3D User Interfaces, 3DUI\
+    \ 2017, Los Angeles, CA, USA, March 18-19, 2017, pages 245\u2013246. IEEE Computer\
+    \ Society, 2017"
+  pub_year: 2017
+- citation: "Mona Gupta, Happy Mittal, Parag Singla, and Amitabha Bagchi. Analysis\
+    \ and characterization of  comparison shopping behavior in the mobile handset\
+    \ domain. Electron. Commer. Res., 17(3):521\u2013551,  2017"
+  pub_year: 2017
+- citation: 'Mueller, S.T. (2020, March). Cognitive anthropomorphism of AI: How humans
+    and computers classify images. Ergonomics in Design, pp. 1-8. Santa Monica, CA:
+    Human Factors and Ergonomics Society. [DOI:10.1177/1064804620920870]'
+  pub_year: 2020
+- citation: 'Mueller, S.T., Agarwal, P., Linja, A., Alam, L. (2020). The unreasonable
+    ineptitude of deep image classification networks. In Proceedings of the Annual
+    Meeting of the Human Factors and Ergonomics Society, pp. 184-188. Santa Monica,
+    CA: Human Factors and Ergonomics Society.'
+  pub_year: 2020
+- citation: 'Mueller, S.T., Veinott, E.S., Hoffman, R.R., Klein, G., Alam, L. Mamun,
+    T, & Clancey, W.J. (2021). Principles of explanation in human-machine systems.
+    In AAAI-2021 Workshop on Explainable Agency in Artificial of explanation in human-machine
+    systems. In AAAI-2021 Workshop on Explainable Agency in Artificial
+
+    [https://www.researchgate.net/publication/349145196_Principles_of_Explanation_in_Human-AI_Systems]'
+  pub_year: 2021
+- citation: 'Neale Ratzlaff and Li Fuxin. (2019). HyperGAN: A Generative Model for
+    Diverse, Performant Neural Networks. International Conference on Machine Learning
+    (ICML-2019).'
+  pub_year: 2019
+- citation: Neale Ratzlaff, Qinxun Bai, Li Fuxin, Wei Xu. (2020). Implicit Generative
+    Modeling for Efficient Exploration. International Conference on Machine Learning
+    (ICML-20).
+  pub_year: 2020
+- citation: "Nicholas Ruozzi. A Lower Bound on the Partition Function of Attractive\
+    \ Graphical Models in the  Continuous Case. In Aarti Singh and Xiaojin (Jerry)\
+    \ Zhu, editors, Proceedings of the 20th International  Conference on Artificial\
+    \ Intelligence and Statistics, AISTATS 2017, 20-22 April 2017, Fort Lauderdale,\
+    \  FL, USA, volume 54 of Proceedings of Machine Learning Research, pages 1048\u2013\
+    1056. PMLR, 2017"
+  pub_year: 2017
+- citation: Ninghao Liu, Donghwa Shin, and Xia Hu. "Contextual outlier interpretation."
+    In Proceedings of the 27th International Joint Conference on Artificial Intelligence,
+    pp. 2461-2467. 2018.
+  pub_year: 2018
+- citation: Ninghao Liu, Hongxia Yang, and Xia Hu. "Adversarial detection with model
+    interpretation." In Proceedings of the 24th ACM SIGKDD International Conference
+    on Knowledge Discovery & Data Mining, pp. 1803-1811. ACM, 2018.
+  pub_year: 2018
+- citation: Ninghao Liu, Mengnan Du, and Xia Hu. "Representation Interpretation with
+    Spatial Encoding and Multimodal Analytics." In Proceedings of the 12th ACM International
+    Conference on Web Search and Data Mining (WSDM), pp. 60-68. ACM, 2019.
+  pub_year: 2019
+- citation: Ninghao Liu, Xiao Huang, Jundong Li, and Xia Hu. "On interpretation of
+    network embedding via taxonomy induction." In Proceedings of the 24th ACM SIGKDD
+    International Conference on Knowledge Discovery & Data Mining, pp. 1812-1820.
+    ACM, 2018.
+  pub_year: 2018
+- citation: "Nirbhay Modhe, Prithvijit Chattopadhyay, Mohit Sharma, Abhishek Das,\
+    \ Devi Parikh, Dhruv Batra, Ramakrishna Vedantam \u201CIR-VIC: Unsupervised Discovery\
+    \ of Sub-goals for Transfer in RL\u201D International Joint Conference on Artificial\
+    \ Intelligence (IJCAI), 2020"
+  pub_year: 2020
+- citation: Olson, M., Khanna, R., Neal, L., Li, F. and Wong, W-K. (2021). Counterfactual
+    State Explanations for Reinforcement Learning Agents via Generative Deep Learning.
+    Artificial Intelligence, 295.
+  pub_year: 2021
+- citation: Olson, M., Neal, L., Li, F. and Wong, W-K. (2019). Counterfactual States
+    for Atari Agents via Generative Deep Learning. IJCAI Workshop on Explainable Artificial
+    Intelligence.
+  pub_year: 2019
+- citation: 'Pasha Khosravi, Antonio Vergari, YooJung Choi, Yitao Liang, and Guy Van
+    den Broeck. Handling  missing data in decision trees: A probabilistic approach.
+    In The Art of Learning with Missing Values  Workshop at ICML (Artemiss), jul 2020'
+  pub_year: 2020
+- citation: "Pasha Khosravi, Yitao Liang, YooJung Choi, and Guy Van den Broeck. What\
+    \ to Expect of Classifiers?  Reasoning about Logistic Regression with Missing\
+    \ Features. In Sarit Kraus, editor, Proceedings of the  Twenty-Eighth International\
+    \ Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China,  August\
+    \ 10-16, 2019, pages 2716\u20132724. ijcai.org, 2019"
+  pub_year: 2019
+- citation: "Pasha Khosravi, YooJung Choi, Yitao Liang, Antonio Vergari, and Guy Van\
+    \ den Broeck. On Tractable  Computation of Expected Predictions. In Hanna M. Wallach,\
+    \ Hugo Larochelle, Alina Beygelzimer,  Florence d\u2019Alch\xB4e Buc, Emily B.\
+    \ Fox, and Roman Garnett, editors, Advances in Neural Information  Processing\
+    \ Systems 32: Annual Conference on Neural Information Processing Systems 2019,\
+    \ NeurIPS  2019, December 8-14, 2019, Vancouver, BC, Cana"
+  pub_year: 2019
+- citation: "Pedro Guillermo Feij\xB4oo Garc\xB4\u0131a, Sishun Wang, Ju Cai, Naga\
+    \ Polavarapu, Christina Gardner-McCune,  and Eric D. Ragan. Design and evaluation\
+    \ of a scaffolded block-based learning environment for  hierarchical data structures.\
+    \ In Justin Smith, Christopher Bogart, Judith Good, and Scott D. Fleming,  editors,\
+    \ 2019 IEEE Symposium on Visual Languages and Human-Centric Computing, VL/HCC\
+    \ 2019,  Memphis, Tennessee, USA, October 14-18, 2019,"
+  pub_year: 2019
+- citation: Qinghong Xu and Eric D. Ragan. Effects of Character Guide in Immersive
+    Virtual Reality Stories. In Jessie Y. C. Chen and Gino Fragomeni, editors, Virtual,
+    Augmented and Mixed Reality. Multimodal Interaction - 11th International Conference,
+    VAMR 2019, Held as Part of the 21st HCI International Conference, HCII 2019, Orlando,
+    FL, USA, July 26-31, 2019, Proceedings, Part I, volume 11574 of Lecture Notes
+    in Computer Science, pages 37
+  pub_year: 2019
+- citation: 'R. Krishna, Y. Zhu, O. Groth, J. Johnson, K. Hata, J. Kravitz, S. Chen,
+    Y. Kalantidis, L. Li, D. A. Shamma and M. S. Bernstein, "Visual genome: Connecting
+    language and vision using crowdsourced dense image annotations," International
+    Journal of Computer Vision, 2017.'
+  pub_year: 2017
+- citation: 'R. R. Selvaraju, M. Cogswell, A. Das, R. Vedantam, D. Parikh and D. Batra,
+    "Grad-CAM: Visual explanations from deep networks via gradient-based localization.,"
+    in ICCV, 2017.'
+  pub_year: 2017
+- citation: "Ramakrishna Vedantam, Stefan Lee, Marcus Rohrbach, Dhruv Batra, and Devi\
+    \ Parikh \u201CVariational Neural Module Networks\u201D In Submission to ICLR\
+    \ 2018"
+  pub_year: 2018
+- citation: "Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna\
+    \ Vedantam, Devi Parikh, Dhruv Batra. \u201CGrad-CAM: Visual Explanations from\
+    \ Deep Networks via Gradient-based Localization.\u201D IJCV 2019 Conference"
+  pub_year: 2019
+- citation: "Ramprasaath R. Selvaraju, Prithvijit Chattopadhyay, Mohamed Elhoseiny,\
+    \ Tilak Sharma, Dhruv Batra, Devi Parikh, Stefan Lee \u201CChoose Your Neuron:\
+    \ Incorporating Domain Knowledge through Neuron Importance\u201D ECCV 2018 https://arxiv.org/abs/1808.02861"
+  pub_year: 2018
+- citation: "Ramprasaath R. Selvaraju, Purva Tendulkar, Devi Parikh, Eric Horvitz,\
+    \ Marco Ribeiro, Besmira Nushi, Ece Kamar \u201CSQuINTing at VQA Models: Interrogating\
+    \ VQA Models with Sub-Questions\u201D IEEE Conference on Computer Vision and Pattern\
+    \ Recognition (CVPR), 2020"
+  pub_year: 2020
+- citation: "Ramprasaath R. Selvaraju, Stefan Lee, Yilin Shen, Hongxia Jin, Dhruv\
+    \ Batra, Devi Parikh \u201CTaking a HINT: Leveraging Explanations to Make Vision\
+    \ and Language Models More Grounded\u201D International Conference on Computer\
+    \ Vision (ICCV), 2019 https://arxiv.org/abs/1902.03751 Keywords: Computer Vision\
+    \ and Pattern Recognition (cs.CV)"
+  pub_year: 2019
+- citation: 'Renjie Zheng, Mingbo Ma, Liang Huang. (2018). Multiple reference training
+    with generated pseudo references. Conference on Empirical Methods in Natural Language
+    Processing (EMNLP). '
+  pub_year: 2018
+- citation: 'Renjie Zheng, Yilin Yang, Mingbo Ma, and Liang Huang. (2018). Ensemble
+    Sequence Level Training for Multimodal MT: OSU-Baidu WMT18 Multimodal Machine
+    Translation System Report. In Proceedings of WMT 2018.'
+  pub_year: 2018
+- citation: Rey Pocius, Lawrence Neal, and Alan Fern. (2019). Strategic Tasks for
+    Explainable Reinforcement Learning. AAAI-2019 Student Abstract.
+  pub_year: 2019
+- citation: 'Reza Ghaeini, Xiaoli Z. Fern, Hamed Shahbazi, and Prasad Tadepalli. (2019).
+    Saliency Learning: Teaching the Model Where to Pay Attention. NAACL HLT-2019. '
+  pub_year: 2019
+- citation: 'Reza Ghaeini, Xiaoli Z. Fern, Prasad Tadepalli. (2018). Interpreting
+    Recurrent and Attention-Based Neural Models: A Case Study on Natural Language
+    Inference. Conference on Empirical Methods in Natural Language Processing (EMNLP).'
+  pub_year: 2018
+- citation: "Rhema Linder, Alexandria M. Stacy, Nic Lupfer, Andruid Kerne, and Eric\
+    \ D. Ragan. Pop the Feed  Filter Bubble: Making Reddit Social Media a VR Cityscape.\
+    \ In Kiyoshi Kiyokawa, Frank Steinicke,  Bruce H. Thomas, and Greg Welch, editors,\
+    \ 2018 IEEE Conference on Virtual Reality and 3D User  Interfaces, VR 2018, Tuebingen/Reutlingen,\
+    \ Germany, 18-22 March 2018, pages 619\u2013620. IEEE  Computer Society, 2018"
+  pub_year: 2018
+- citation: "Robert Peharz, Steven Lang, Antonio Vergari, Karl Stelzner, Alejandro\
+    \ Molina, Martin Trapp, Guy  Van den Broeck, Kristian Kersting, and Zoubin Ghahramani.\
+    \ Einsum Networks: Fast and Scalable  Learning of Tractable Probabilistic Circuits.\
+    \ In Proceedings of the 37th International Conference  on Machine Learning, ICML\
+    \ 2020, 13-18 July 2020, Virtual Event, volume 119 of Proceedings of  Machine\
+    \ Learning Research, pages 7563\u20137574. PMLR,"
+  pub_year: 2020
+- citation: Ronak R. Mohanty, Ricardo M. Castillo, Eric D. Ragan, and Vinayak R. Krishnamurthy.
+    Investigating  Force-Feedback in Mid-Air Sketching of Multi-Planar Three-Dimensional
+    Curve-Soups. J. Comput.  Inf. Sci. Eng., 20(1), 2020
+  pub_year: 2020
+- citation: S. Bakas, M. Reyes, A. Jakab, S. Bauer, M. Rempfler, A. Crimi, R. Shinohara,
+    C. Berger, S. Ha, M. Rozycki and M. Prastawa, "Identifying the best machine learning
+    algorithms for brain tumor segmentation, progression assessment, and overall survival
+    prediction in the BRATS challenge.," in arXiv:1811.02629, 2018.
+  pub_year: 2018
+- citation: S. Ghosh, G. Burachas, A. Ray and A. Ziskind, "Generating natural language
+    explanations for visual question answering using scene graphs and visual attention,"
+    in arXiv:1902.05715, 2019.
+  pub_year: 2019
+- citation: "S. Penney, J. Dodge, C. Hilderbrand, A. Anderson, L. Simpson, and M.\
+    \ Burnett. (2017). Toward Foraging for Understanding of StarCraft Agents: An Empirical\
+    \ Study. In Proceedings of the 23rd International Conference on Intelligent User\
+    \ Interfaces (IUI \u201818). ACM. "
+  pub_year: 2017
+- citation: S. W. Kim, M. Tapaswi and S. Fidler, "Visual reasoning by progressive
+    module networks," in ICLR, 2019.
+  pub_year: 2019
+- citation: 'Saeed Khorram, Tyler Lawson, and Li Fuxin. (2021). iGOS++: Integrated
+    Gradient Optimized Saliency by Bilateral Perturbations. ACM Conference on Health,
+    Inference and Learning (CHIL).'
+  pub_year: 2021
+- citation: 'Saket Dingliwal, Ronak Agarwal, Happy Mittal, and Parag Singla. CVC4-SymBreak:
+    Derived SMT  solver at SMT Competition 2019. CoRR, abs/1908.00860, 2019. eprint:
+    1908.00860'
+  pub_year: 2019
+- citation: Sam Greydanus, Anurag Koul, Jonathan Dodge, and Alan Fern. (2017). Visualizing
+    and Understanding Atari Agents. NIPS Workshop on Interpreting, Explaining and
+    Visualizing Deep Learning.
+  pub_year: 2017
+- citation: 'Sam Greydanus, Anurag Koul, Jonathan Dodge, and Alan Fern. (2018). Visualizing
+    and Understanding Atari Agents. International Conference on Machine Learning. '
+  pub_year: 2018
+- citation: "Sameer Dharur, Purva Tendulkar, Dhruv Batra, Devi Parikh, Ramprasaath\
+    \ R. Selvaraju \u201CSOrT-ing VQA Models: Improving Consistency via Gradient Alignment\u201D\
+    \ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020"
+  pub_year: 2020
+- citation: "Samyak Datta, Karan Sikka, Anirban Roy, Karuna Ahuja, Devi Parikh, Ajay\
+    \ Divakaran \u201CAlign2Ground: Weakly Supervised Phrase Grounding Guided by Image-Caption\
+    \ Alignment\u201D International Conference on Computer Vision (ICCV), 2019 https://arxiv.org/abs/1903.11649\
+    \ Keywords: Computer Vision and Pattern Recognition (cs.CV)"
+  pub_year: 2019
+- citation: "Sara Rouhani, Tahrima Rahman, and Vibhav Gogate. A Novel Approach for\
+    \ Constrained Optimization  in Graphical Models. In Hugo Larochelle, Marc\u2019\
+    Aurelio Ranzato, Raia Hadsell, Maria-Florina  Balcan, and Hsuan-Tien Lin, editors,\
+    \ Advances in Neural Information Processing Systems 33: Annual  Conference on\
+    \ Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020,\
+    \  virtual, 2020"
+  pub_year: 2020
+- citation: "Sara Rouhani, Tahrima Rahman, and Vibhav Gogate. Algorithms for the Nearest\
+    \ Assignment Problem.  In J\xB4er\u02C6ome Lang, editor, Proceedings of the Twenty-Seventh\
+    \ International Joint Conference on Artificial  Intelligence, IJCAI 2018, July\
+    \ 13-19, 2018, Stockholm, Sweden, pages 5096\u20135102. ijcai.org, 2018"
+  pub_year: 2018
+- citation: 'Sean Penney, Jonathan Dodge, Andrew Anderson, Claudia Hilderbrand, Logan
+    Simpson, and Margaret Burnett. (2020). The Shoutcasters, the Game Enthusiasts,
+    and the AI: Foraging for Explanations of Real-Time Strategy Players. ACM Transactions
+    on Interactive Intelligent Systems. '
+  pub_year: 2020
+- citation: "Shaghayegh Esmaeili, Brett Benda, and Eric D. Ragan. Detection of Scaled\
+    \ Hand Interactions in  Virtual Reality: The Effects of Motion Direction and Task\
+    \ Complexity. In IEEE Conference on Virtual  Reality and 3D User Interfaces, VR\
+    \ 2010, Atlanta, GA, USA, March 22-26, 2020, pages 453\u2013462. IEEE, 2020"
+  pub_year: 2020
+- citation: "Shahab Shams, Nicholas Ruozzi, and P\xB4eter Csikv\xB4ari. Counting Homomorphisms\
+    \ in Bipartite Graphs.  In IEEE International Symposium on Information Theory,\
+    \ ISIT 2019, Paris, France, July 7-12, 2019,  pages 1487\u20131491. IEEE, 2019"
+  pub_year: 2019
+- citation: "Shahroze Kabir, Frederic Sala, Guy Van den Broeck, and Lara Dolecek.\
+    \ Coded machine learning:  Joint informed replication and learning for linear\
+    \ regression. In 55th Annual Allerton Conference on  Communication, Control, and\
+    \ Computing, Allerton 2017, Monticello, IL, USA, October 3-6, 2017,  pages 1248\u2013\
+    1255. IEEE, 2017"
+  pub_year: 2017
+- citation: "Shyam Prathish Sargunam and Eric D. Ragan. Evaluating joystick control\
+    \ for view rotation in  virtual reality with continuous turning, discrete turning,\
+    \ and field-of-view reduction. In Prabhakaran  Balakrishnan and Ryan P. McMahan,\
+    \ editors, Proceedings of the 3rd International Workshop on  Interactive and Spatial\
+    \ Computing, IWISC 2018, Richardson, TX, USA, April 12-13, 2018, pages 74\u2013\
+    79.  ACM, 2018"
+  pub_year: 2018
+- citation: 'Shyam Prathish Sargunam, Kasra Rahimi Moghadam, Mohamed Suhail, and Eric
+    D. Ragan. Guided  head rotation and amplified head rotation: Evaluating semi-natural
+    travel and viewing techniques in  virtual reality. In Evan Suma Rosenberg, David
+    M. Krum, ZacharyWartell, Betty J. Mohler, Sabarish V.  Babu, Frank Steinicke,
+    and Victoria Interrante, editors, 2017 IEEE Virtual Reality, VR 2017, Los  Angeles,
+    CA, USA, March 18-22, 2017, page'
+  pub_year: 2017
+- citation: 'Sina Mohseni and Eric D. Ragan. A Human-Grounded Evaluation Benchmark
+    for Local Explanations  of Machine Learning. CoRR, abs/1801.05075, 2018. eprint:
+    1801.05075'
+  pub_year: 2018
+- citation: 'Sina Mohseni and Eric D. Ragan. Combating Fake News with Interpretable
+    News Feed Algorithm.  CoRR, abs/1811.12349, 2018. eprint: 1811.12349'
+  pub_year: 2018
+- citation: 'Sina Mohseni, Alyssa M. Pena, and Eric D. Ragan. ProvThreads: Analytic
+    Provenance Visualization  and Segmentation. CoRR, abs/1801.05469, 2018. eprint:
+    1801.05469'
+  pub_year: 2018
+- citation: 'Sina Mohseni, Andrew Pachuilo, Ehsanul Haque Nirjhar, Rhema Linder, Alyssa
+    M. Pena, and Eric D.  Ragan. Analytic Provenance Datasets: A Data Repository of
+    Human Analysis Activity and Interaction  Logs. CoRR, abs/1801.05076, 2018. eprint:
+    1801.05076'
+  pub_year: 2018
+- citation: 'Sina Mohseni, Eric D. Ragan, and Xia Hu. Open Issues in Combating Fake
+    News: Interpretability as  an Opportunity. CoRR, abs/1904.03016, 2019. eprint:
+    1904.03016'
+  pub_year: 2019
+- citation: Sina Mohseni, Eric Ragan, Ben Hu, Shuiwang Ji, Fan Yang, Mengnan Du, Shiva
+    Pentyala, Yi Liu and Nic Lupfer. "Trust Evolution Over Time in Explainable AI
+    for Fake News Detection", Fair & Responsible AI Workshop at CHI 2020.
+  pub_year: 2020
+- citation: 'Sina Mohseni, Eric Ragan. Quantitative Evaluation of Machine Learning
+    Explanations: A Human-Grounded Approach. CHI 2020 Workshop AI4HCI.'
+  pub_year: 2020
+- citation: 'Sina Mohseni, Fan Yang, Shiva K. Pentyala, Mengnan Du, Yi Liu, Nic Lupfer,
+    Xia Hu, Shuiwang Ji,  and Eric D. Ragan. Machine Learning Explanations to Prevent
+    Overtrust in Fake News Detection.  CoRR, abs/2007.12358, 2020. eprint: 2007.12358'
+  pub_year: 2020
+- citation: "Sina Mohseni, Jeremy E. Block, and Eric D. Ragan. Quantitative Evaluation\
+    \ of Machine Learning  Explanations: A Human-Grounded Benchmark. In Tracy Hammond,\
+    \ Katrien Verbert, Dennis Parra,  Bart P. Knijnenburg, John O\u2019Donovan, and\
+    \ Paul Teale, editors, IUI \u201921: 26th International Conference  on Intelligent\
+    \ User Interfaces, College Station, TX, USA, April 13-17, 2021, pages 22\u2013\
+    31. ACM, 2021"
+  pub_year: 2021
+- citation: Sina Mohseni, Niloofar Zarei, Eric Ragan. A Multidisciplinary Survey and
+    Framework for Design and Evaluation of Explainable AI Systems.  ACM Trans. Interact.
+    Intell. Syst. (TiiS) Special Issue on Interactive Visual Analytics for Making
+    Explainable and Accountable Decisions.
+  pub_year: 2021
+- citation: 'Sina Mohseni, Niloofar Zarei, and Eric D. Ragan. A Survey of Evaluation
+    Methods and Measures for  Interpretable Machine Learning. CoRR, abs/1811.11839,
+    2018. eprint: 1811.11839'
+  pub_year: 2018
+- citation: Sina Mohseni. "Toward Design and Evaluation Framework for Interpretable
+    Machine Learning Systems." Proceedings of the 2019 AAAI/ACM Conference on AI,
+    Ethics, and Society (AIES). 2019.
+  pub_year: 2019
+- citation: "Somdeb Sarkhel, Deepak Venugopal, Nicholas Ruozzi, and Vibhav Gogate.\
+    \ Efficient Inference for  Untied MLNs. In Carles Sierra, editor, Proceedings\
+    \ of the Twenty-Sixth International Joint Conference  on Artificial Intelligence,\
+    \ IJCAI 2017, Melbourne, Australia, August 19-25, 2017, pages 4617\u20134624.\
+    \  ijcai.org, 2017"
+  pub_year: 2017
+- citation: "Somers, S., Mitsopoulos K., Thomson, R., Lebiere, C.\_\u201CCognitive-Level\
+    \ Salience for Explainable\_Artificial Intelligence.\u201D\_Proceedings of the\
+    \ 17th International Conference on Cognitive Modeling (ICCM2018) (pp. 235-240),\
+    \ Madison, WI, USA.\_"
+  pub_year: 2018
+- citation: "Somers, S., Mitsopoulos, K., Thomson, R., Lebiere, C.\_\u201CExplaining\
+    \ Decisions of a Deep Reinforcement Learner with a Cognitive Architecture,\u201D\
+    \ Proceedings of the 16th International Conference on Cognitive Modeling (ICCM2018)\
+    \ (pp. 144-149), Montreal, QC, Canada.\_"
+  pub_year: 2018
+- citation: "Sruti Srinivasa Ragavan, Mihai Codoban, David Piorkowski, Danny Dig,\
+    \ and Margaret Burnett. (to appear). Version Control Systems: An Information Foraging\
+    \ Perspective. IEEE Transactions on Software Engineering, to appear in 2019.\_"
+  pub_year: 2019
+- citation: 'Steven Holtzen, Guy Van den Broeck, and Todd D. Millstein. Dice: Compiling
+    Discrete Probabilistic  Programs for Scalable Inference. CoRR, abs/2005.09089,
+    2020. eprint: 2005.09089'
+  pub_year: 2020
+- citation: "Steven Holtzen, Guy Van den Broeck, and Todd D. Millstein. Sound Abstraction\
+    \ and Decomposition  of Probabilistic Programs. In Jennifer G. Dy and Andreas\
+    \ Krause, editors, Proceedings of the 35th  International Conference on Machine\
+    \ Learning, ICML 2018, Stockholmsm\xA8assan, Stockholm, Sweden,  July 10-15, 2018,\
+    \ volume 80 of Proceedings of Machine Learning Research, pages 2004\u20132013.\
+    \ PMLR,  2018"
+  pub_year: 2018
+- citation: Steven Holtzen, Guy Van den Broeck, and Todd Millstein. Scaling exact
+    inference for discrete  probabilistic programs. Proc. ACM Program. Lang., 4(OOPSLA),
+    November 2020
+  pub_year: 2020
+- citation: "Steven Holtzen, Todd D. Millstein, and Guy Van den Broeck. Generating\
+    \ and Sampling Orbits for  Lifted Probabilistic Inference. In Amir Globerson and\
+    \ Ricardo Silva, editors, Proceedings of the  Thirty-Fifth Conference on Uncertainty\
+    \ in Artificial Intelligence, UAI 2019, Tel Aviv, Israel, July 22-25,  2019, volume\
+    \ 115 of Proceedings of Machine Learning Research, pages 985\u2013994. AUAI Press,\
+    \ 2019"
+  pub_year: 2019
+- citation: Steven Holtzen, Todd D. Millstein, and Guy Van den Broeck. Probabilistic
+    Program Abstractions.  In Gal Elidan, Kristian Kersting, and Alexander T. Ihler,
+    editors, Proceedings of the Thirty-Third  Conference on Uncertainty in Artificial
+    Intelligence, UAI 2017, Sydney, Australia, August 11-15, 2017.  AUAI Press, 2017
+  pub_year: 2017
+- citation: Sun, Mingjie, Siddhant Agarwal, and J. Zico Kolter. "Poisoned classifiers
+    are not only backdoored, they are fundamentally broken." arXiv preprint arXiv:2010.09080
+    (2020).
+  pub_year: 2020
+- citation: "Tahrima Rahman, Shasha Jin, and Vibhav Gogate. Cutset Bayesian Networks:\
+    \ A New Representation  for Learning Rao-Blackwellised Graphical Models. In Sarit\
+    \ Kraus, editor, Proceedings of the Twenty-  Eighth International Joint Conference\
+    \ on Artificial Intelligence, IJCAI 2019, Macao, China, August  10-16, 2019, pages\
+    \ 5751\u20135757. ijcai.org, 2019"
+  pub_year: 2019
+- citation: "Tahrima Rahman, Shasha Jin, and Vibhav Gogate. Look Ma, No Latent Variables:\
+    \ Accurate Cutset  Networks via Compilation. In Kamalika Chaudhuri and Ruslan\
+    \ Salakhutdinov, editors, Proceedings of  the 36th International Conference on\
+    \ Machine Learning, ICML 2019, 9-15 June 2019, Long Beach,  California, USA, volume\
+    \ 97 of Proceedings of Machine Learning Research, pages 5311\u20135320. PMLR,\
+    \  2019"
+  pub_year: 2019
+- citation: "Tal Friedman and Guy Van den Broeck. Approximate Knowledge Compilation\
+    \ by Online Collapsed  Importance Sampling. In Samy Bengio, Hanna M.Wallach, Hugo\
+    \ Larochelle, Kristen Grauman, Nicol`o  Cesa-Bianchi, and Roman Garnett, editors,\
+    \ Advances in Neural Information Processing Systems 31:  Annual Conference on\
+    \ Neural Information Processing Systems 2018, NeurIPS 2018, December 3-8,  2018,\
+    \ Montr\xB4eal, Canada, pages 8035\u20138045, 2018"
+  pub_year: 2018
+- citation: "Tal Friedman and Guy Van den Broeck. On Constrained Open-World Probabilistic\
+    \ Databases. In  Sarit Kraus, editor, Proceedings of the Twenty-Eighth International\
+    \ Joint Conference on Artificial  Intelligence, IJCAI 2019, Macao, China, August\
+    \ 10-16, 2019, pages 5722\u20135729. ijcai.org, 2019"
+  pub_year: 2019
+- citation: "Tal Friedman and Guy Van den Broeck. Symbolic Querying of Vector Spaces:\
+    \ Probabilistic Databases  Meets Relational Embeddings. In Ryan P. Adams and Vibhav\
+    \ Gogate, editors, Proceedings of the  Thirty-Sixth Conference on Uncertainty\
+    \ in Artificial Intelligence, UAI 2020, virtual online, August 3-6,  2020, volume\
+    \ 124 of Proceedings of Machine Learning Research, pages 1268\u20131277. AUAI\
+    \ Press, 2020"
+  pub_year: 2020
+- citation: 'Theresa Mai, Roli Khanna, Jonathan Dodge, Jed Irvine, Kin-Ho Lam, Zhengxian
+    Lin, Nicholas Kiddle, Evan Newman, Sai Raja, Caleb Matthews, Christopher Perdriau,
+    Margaret Burnett, and Alan Fern. (2020). Keeping It "Organized and Logical": After
+    Action Review for AI (AAR/AI). ACM Conference on Intelligent User Interfaces (IUI).'
+  pub_year: 2020
+- citation: "Thomson, R., & Schoenherr, J. (2020)\_Knowledge-to-Information Translation\
+    \ Training (KITT): An Adaptive Approach to Explainable Artificial Intelligence.\_\
+    Human Computer Interaction International Annual Conference."
+  pub_year: 2020
+- citation: "Tiansheng Yao, Arthur Choi, and Adnan Darwiche. Learning Bayesian network\
+    \ parameters under equivalence constraints. Artif. Intell., 244:239\u2013257,\
+    \ 2017"
+  pub_year: 2017
+- citation: Tianze Shi, Liang Huang, and Lillian Lee. (2017). Fast(er) Exact Decoding
+    and Global Training for Transition-Based Dependency Parsing Via A Minimal Feature
+    Set. Proceedings of EMNLP.
+  pub_year: 2017
+- citation: "Travis Stebbins and Eric D. Ragan. Redirecting View Rotation in Immersive\
+    \ Movies with Washout Filters. In IEEE Conference on Virtual Reality and 3D User\
+    \ Interfaces, VR 2019, Osaka, Japan, March 23-27, 2019, pages 377\u2013385. IEEE,\
+    \ 2019"
+  pub_year: 2019
+- citation: "Umut Oztok and Adnan Darwiche. An Exhaustive DPLL Algorithm for Model\
+    \ Counting. J. Artif.  Intell. Res., 62:1\u201332, 2018"
+  pub_year: 2018
+- citation: 'Umut Oztok and Adnan Darwiche. On Compiling DNNFs without Determinism.
+    CoRR, abs/1709.07092,  2017. eprint: 1709.07092'
+  pub_year: 2017
+- citation: "Vishal Sharma, Noman Ahmed Sheikh, Happy Mittal, Vibhav Gogate, and Parag\
+    \ Singla. Lifted  Marginal MAP Inference. In Amir Globerson and Ricardo Silva,\
+    \ editors, Proceedings of the Thirty-  Fourth Conference on Uncertainty in Artificial\
+    \ Intelligence, UAI 2018, Monterey, California, USA,  August 6-10, 2018, pages\
+    \ 917\u2013926. AUAI Press, 2018"
+  pub_year: 2018
+- citation: "Vishvak Murahari, Prithvijit Chattopadhyay, Dhruv Batra, Devi Parikh,\
+    \ Abhishek Das \u201CImproving Generative Visual Dialog by Answering Diverse Questions\u201D\
+    \ Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019\
+    \ https://arxiv.org/abs/1909.10470 Keywords: Computation and Language (cs.CL);\
+    \ Computer Vision and Pattern Recognition (cs.CV); Machine Learning (stat.ML)"
+  pub_year: 2019
+- citation: Vong, W-K., Sojitra, R., Reyes, A., Yang, S.C-H., & Shafto, P. (2018).
+    Bayesian teaching of image categories. Proceedings of the 40th annual conference
+    of the Cognitive Science Society.
+  pub_year: 2018
+- citation: Wang, J., Wang, P., & Shafto, P. (2020). Sequential cooperative Bayesian
+    inference. International Conference on Machine Learning (ICML).
+  pub_year: 2020
+- citation: "Wang, P., Givchi, A., & Shafto, P. (2020). Manifold learning from a teacher\u2019\
+    s demonstrations. NeurIPS workshop: TDA and beyond."
+  pub_year: 2020
+- citation: Wang, P., Paranamana, P., & Shafto, P. (2019). Generalizing the theory
+    of cooperative inference. Proceedings of the 22nd international conference on
+    Artificial Intelligence and Statistics (AISTATS).
+  pub_year: 2019
+- citation: Wang, P., Wang, J., Paranamana, P., & Shafto, P. (2020). A mathematical
+    theory of cooperative communication. Advances in Neural Information Processing
+    Systems (NeurIPS). arXiv (oral presentation, <1.5% acceptance rate)
+  pub_year: 2020
+- citation: "Weijia Shi, Andy Shih, Adnan Darwiche, and Arthur Choi. On Tractable\
+    \ Representations of Binary  Neural Networks. In Diego Calvanese, Esra Erdem,\
+    \ and Michael Thielscher, editors, Proceedings of  the 17th International Conference\
+    \ on Principles of Knowledge Representation and Reasoning, KR  2020, Rhodes, Greece,\
+    \ September 12-18, 2020, pages 882\u2013892, 2020"
+  pub_year: 2020
+- citation: 'Wenxuan Wu, Zhongang Qi, and LI Fuxin. PointConv: Deep Convolutional
+    Networks on 3D Point Clouds. International Conference on Computer Vision and Pattern
+    Recognition (CVPR-2019).'
+  pub_year: 2019
+- citation: 'Wenzhe Li, Zhe Zeng, Antonio Vergari, and Guy Van den Broeck. Tractable
+    Computation of Expected  Kernels by Circuits. CoRR, abs/2102.10562, 2021. eprint:
+    2102.10562'
+  pub_year: 2021
+- citation: "Wu, J. and Mooney, R.J. \u201CHidden State Guidance: Improving Image\
+    \ Captioning Using an Image Conditioned Autoencoder\u201D Proceedings of the NeurIPS\
+    \ Workshop on Visually Grounded Interaction and Language (ViGIL), Vancouver, BC,\
+    \ Dec. 2019."
+  pub_year: 2019
+- citation: "Wu, J. and Mooney, R.J. \u201CSelf-Critical Reasoning for Robust Visual\
+    \ Question Answering,\" in Proceedings of the Thirty-third Conference on Advances\
+    \ in Neural Information Processing Systems (NeurIPS) (Spotlight presentation),\
+    \ Vancouver, BC, Dec. 2019. https://arxiv.org/abs/1905.09998 Keywords: Computer\
+    \ Vision and Pattern Recognition (cs.CV); Computation and Language (cs.CL)"
+  pub_year: 2019
+- citation: 'Xiao Huang, Jundong Li, Na Zou, and Xia Hu. "A General Embedding Framework
+    for Heterogeneous Information Learning in Large-Scale Networks." ACM Transactions
+    on Knowledge Discovery from Data (TKDD) 12, no. 6 (2018): 70.'
+  pub_year: 2018
+- citation: Xiao Huang, Qingquan Song, Jundong Li, and Xia Hu. "Exploring expert cognition
+    for attributed network embedding." In Proceedings of the Eleventh ACM International
+    Conference on Web Search and Data Mining, pp. 270-278. ACM, 2018.
+  pub_year: 2018
+- citation: Xingyi Li, Zhongang Qi, Xiaoli Fern, LI Fuxin. (2020). ScaleNet - Improve
+    CNNs through Recursively Scaling Objects. AAAI Conference on Artificial Intelligence
+    (AAAI-2020).
+  pub_year: 2020
+- citation: 'Y. Goyal, T. Khot, D. Summers-Stay, D. Batra and D. Parikh, "Making the
+    v in vqa matter: Elevating the role of image understanding in visual question
+    answering," in CVPR, 2017.'
+  pub_year: 2017
+- citation: Yang, S.,C-H., Folke, T., & Shafto, P. (preprint). Abstraction, validation,
+    and generalization for explainable artificial intelligence.
+  pub_year: 2021
+- citation: Yang, S.,C-H., Vong, W-K., Sojitra, R.B., Folke, T., & Shafto, P. (2021).
+    Mitigating belief projection in explainable artificial intelligence via Bayesian
+    Teaching. Scientific Reports.
+  pub_year: 2021
+- citation: Yang, S.C-H. & Shafto, P. (2017). Explanable Artificial Intelligence via
+    Bayesian Teaching. NIPS 2017 workshop on Teaching Machines, Robots, and Humans.
+  pub_year: 2017
+- citation: Yang, S.C-H., Yu, Y., Givchi, A., Wang, P., Vong, W.K., & Shafto, P. (2018).
+    Optimal cooperative inference. Proceedings of the 21st international conference
+    on Artificial Intelligence and Statistics (AISTATS).
+  pub_year: 2018
+- citation: 'Yangming Shi, Jing Du, and Eric D. Ragan. Review visual attention and
+    spatial memory in building  inspection: Toward a cognition-driven information
+    system. Adv. Eng. Informatics, 44:101061, 2020'
+  pub_year: 2020
+- citation: Yash Goyal, Ziyan Wu, Jan Ernst, Dhruv Batra, Devi Parikh, Stefan Lee.
+    "Counterfactual Visual Explanations." https://arXiv:1904.07451.pdf   (2019)
+  pub_year: 2019
+- citation: "Yatin Nandwani, Abhishek Pathak, Mausam, and Parag Singla. A Primal Dual\
+    \ Formulation For Deep  Learning With Constraints. In Hanna M. Wallach, Hugo Larochelle,\
+    \ Alina Beygelzimer, Florence  d\u2019Alch\xB4e Buc, Emily B. Fox, and Roman Garnett,\
+    \ editors, Advances in Neural Information Processing  Systems 32: Annual Conference\
+    \ on Neural Information Processing Systems 2019, NeurIPS 2019,  December 8-14,\
+    \ 2019, Vancouver, BC, Canada, pages 121"
+  pub_year: 2019
+- citation: 'Yatin Nandwani, Ankesh Gupta, Aman Agrawal, Mayank Singh Chauhan, Parag
+    Singla, and Mausam.  OxKBC: Outcome Explanation for Factorization Based Knowledge
+    Base Completion. In Dipanjan  Das, Hannaneh Hajishirzi, Andrew McCallum, and Sameer
+    Singh, editors, Conference on Automated  Knowledge Base Construction, AKBC 2020,
+    Virtual, June 22-24, 2020, 2020'
+  pub_year: 2020
+- citation: 'Yatin Nandwani, Deepanshu Jindal, Mausam, and Parag Singla. Neural Learning
+    of One-of-Many  Solutions for Combinatorial Problems in Structured Output Spaces.
+    CoRR, abs/2008.11990, 2020.  eprint: 2008.11990'
+  pub_year: 2020
+- citation: Yi Liu, Hao Yuan, and Shuiwang Ji. "Learning Local and Global Multi-context
+    Representations for Document Classification." 2019 IEEE International Conference
+    on Data Mining (ICDM). IEEE, 2019.
+  pub_year: 2019
+- citation: 'Yibo Yang, Nicholas Ruozzi, and Vibhav Gogate. Scalable Neural Network
+    Compression and Pruning Using Hard Clustering and L1 Regularization. CoRR, abs/1806.05355,
+    2018. eprint: 1806.05355'
+  pub_year: 2018
+- citation: 'Yilin Yang, Liang Huang, Mingbo Ma. (2018). Breaking the Beam Search
+    Curse for Neural Machine Translation. Conference on Empirical Methods in Natural
+    Language Processing (EMNLP). '
+  pub_year: 2018
+- citation: "Yipeng Huang, Steven Holtzen, Todd D. Millstein, Guy Van den Broeck,\
+    \ and Margaret Martonosi.  Logical abstractions for noisy variational Quantum\
+    \ algorithm simulation. In Tim Sherwood, Emery  Berger, and Christos Kozyrakis,\
+    \ editors, ASPLOS \u201921: 26th ACM International Conference on Architectural\
+    \  Support for Programming Languages and Operating Systems, Virtual Event, USA,\
+    \ April 19-23,  2021, pages 456\u2013472. ACM, 2021"
+  pub_year: 2021
+- citation: "Yitao Liang and Guy Van den Broeck. Learning Logistic Circuits. In The\
+    \ Thirty-Third AAAI Conference  on Artificial Intelligence, AAAI 2019, The Thirty-First\
+    \ Innovative Applications of Artificial Intelligence  Conference, IAAI 2019, The\
+    \ Ninth AAAI Symposium on Educational Advances in Artificial Intelligence,  EAAI\
+    \ 2019, Honolulu, Hawaii, USA, January 27 - February 1, 2019, pages 4277\u2013\
+    4286. AAAI Press,  2019"
+  pub_year: 2019
+- citation: Yitao Liang, Jessa Bekker, and Guy Van den Broeck. Learning the Structure
+    of Probabilistic Sentential  Decision Diagrams. In Gal Elidan, Kristian Kersting,
+    and Alexander T. Ihler, editors, Proceedings of  the Thirty-Third Conference on
+    Uncertainty in Artificial Intelligence, UAI 2017, Sydney, Australia,  August 11-15,
+    2017. AUAI Press, 2017
+  pub_year: 2017
+- citation: "YooJung Choi and Guy Van den Broeck. On Robust Trimming of Bayesian Network\
+    \ Classifiers. In  J\xB4er\u02C6ome Lang, editor, Proceedings of the Twenty-Seventh\
+    \ International Joint Conference on Artificial  Intelligence, IJCAI 2018, July\
+    \ 13-19, 2018, Stockholm, Sweden, pages 5002\u20135009. ijcai.org, 2018"
+  pub_year: 2018
+- citation: "YooJung Choi, Adnan Darwiche, and Guy Van den Broeck. Optimal Feature\
+    \ Selection for Decision  Robustness in Bayesian Networks. In Carles Sierra, editor,\
+    \ Proceedings of the Twenty-Sixth International  Joint Conference on Artificial\
+    \ Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25,  2017, pages 1554\u2013\
+    1560. ijcai.org, 2017"
+  pub_year: 2017
+- citation: YooJung Choi, Golnoosh Farnadi, Behrouz Babaki, and Guy Van den Broeck.
+    Learning Fair Naive  Bayes Classifiers by Discovering and Eliminating Discrimination
+    Patterns. In The Thirty-Fourth  AAAI Conference on Artificial Intelligence, AAAI
+    2020, The Thirty-Second Innovative Applications of  Artificial Intelligence Conference,
+    IAAI 2020, The Tenth AAAI Symposium on Educational Advances  in Artificial Intelligence,
+    EAAI 2020, New Yor
+  pub_year: 2020
+- citation: YooJung Choi, Meihua Dang, and Guy Van den Broeck. Group Fairness by Probabilistic
+    Modeling  with Latent Fair Decisions. In Proceedings of the 35th AAAI Conference
+    on Artificial Intelligence,  2021
+  pub_year: 2021
+- citation: Yuanzhen Guo, Hao Xiong, and Nicholas Ruozzi. Marginal Inference in Continuous
+    Markov Random  Fields Using Mixtures. In The Thirty-Third AAAI Conference on Artificial
+    Intelligence, AAAI 2019,  The Thirty-First Innovative Applications of Artificial
+    Intelligence Conference, IAAI 2019, The Ninth  AAAI Symposium on Educational Advances
+    in Artificial Intelligence, EAAI 2019, Honolulu, Hawaii,  USA, January 27 - February
+    1, 2019, pages
+  pub_year: 2019
+- citation: 'Yujia Shen, Anchal Goyanka, Adnan Darwiche, and Arthur Choi. Structured
+    Bayesian Networks: From  Inference to Learning with Routes. In The Thirty-Third
+    AAAI Conference on Artificial Intelligence,  AAAI 2019, The Thirty-First Innovative
+    Applications of Artificial Intelligence Conference, IAAI 2019,  The Ninth AAAI
+    Symposium on Educational Advances in Artificial Intelligence, EAAI 2019, Honolulu,  Hawaii,
+    USA, January 27 - February'
+  pub_year: 2019
+- citation: 'Yujia Shen, Arthur Choi, and Adnan Darwiche. A New Perspective on Learning
+    Context-Specific  Independence. CoRR, abs/2006.06896, 2020. eprint: 2006.06896'
+  pub_year: 2020
+- citation: Yujia Shen, Arthur Choi, and Adnan Darwiche. A Tractable Probabilistic
+    Model for Subset Selection.  In Gal Elidan, Kristian Kersting, and Alexander T.
+    Ihler, editors, Proceedings of the Thirty-Third  Conference on Uncertainty in
+    Artificial Intelligence, UAI 2017, Sydney, Australia, August 11-15, 2017.  AUAI
+    Press, 2017
+  pub_year: 2017
+- citation: 'Yujia Shen, Arthur Choi, and Adnan Darwiche. Conditional PSDDs: Modeling
+    and Learning With  Modular Knowledge. In Sheila A. McIlraith and Kilian Q. Weinberger,
+    editors, Proceedings of the  Thirty-Second AAAI Conference on Artificial Intelligence,
+    (AAAI-18), the 30th innovative Applications  of Artificial Intelligence (IAAI-18),
+    and the 8th AAAI Symposium on Educational Advances in Artificial  Intelligence
+    (EAAI-18), New Orleans,'
+  pub_year: 2018
+- citation: "Yujia Shen, Haiying Huang, Arthur Choi, and Adnan Darwiche. Conditional\
+    \ Independence in Testing  Bayesian Networks. In Kamalika Chaudhuri and Ruslan\
+    \ Salakhutdinov, editors, Proceedings of the 36th  International Conference on\
+    \ Machine Learning, ICML 2019, 9-15 June 2019, Long Beach, California,  USA, volume\
+    \ 97 of Proceedings of Machine Learning Research, pages 5701\u20135709. PMLR,\
+    \ 2019"
+  pub_year: 2019
+- citation: "Yuqiao Chen, Nicholas Ruozzi, and Sriraam Natarajan. Lifted Message Passing\
+    \ for Hybrid Probabilistic  Inference. In Sarit Kraus, editor, Proceedings of\
+    \ the Twenty-Eighth International Joint Conference on  Artificial Intelligence,\
+    \ IJCAI 2019, Macao, China, August 10-16, 2019, pages 5701\u20135707. ijcai.org,\
+    \  2019"
+  pub_year: 2019
+- citation: "Yuqiao Chen, Yibo Yang, Sriraam Natarajan, and Nicholas Ruozzi. Lifted\
+    \ Hybrid Variational Inference.  In Christian Bessiere, editor, Proceedings of\
+    \ the Twenty-Ninth International Joint Conference on  Artificial Intelligence,\
+    \ IJCAI 2020, pages 4237\u20134244. ijcai.org, 2020"
+  pub_year: 2020
+- citation: "Zhe Zeng and Guy Van den Broeck. Efficient Search-Based Weighted Model\
+    \ Integration. In Amir Globerson and Ricardo Silva, editors, Proceedings of the\
+    \ Thirty-Fifth Conference on Uncertainty in Artificial Intelligence, UAI 2019,\
+    \ Tel Aviv, Israel, July 22-25, 2019, volume 115 of Proceedings of Machine Learning\
+    \ Research, pages 175\u2013185. AUAI Press, 2019"
+  pub_year: 2019
+- citation: 'Zhe Zeng, Fanqi Yan, Paolo Morettin, Antonio Vergari, and Guy Van den
+    Broeck. Hybrid Probabilistic Inference with Logical Constraints: Tractability
+    and Message Passing. CoRR, abs/1909.09362, 2019. eprint: 1909.09362'
+  pub_year: 2019
+- citation: "Zhe Zeng, Paolo Morettin, Fanqi Yan, Antonio Vergari, and Guy Van den\
+    \ Broeck. Probabilistic Inference with Algebraic Constraints: Theoretical Limits\
+    \ and Practical Approximations. In Hugo Larochelle, Marc\u2019Aurelio Ranzato,\
+    \ Raia Hadsell, Maria-Florina Balcan, and Hsuan-Tien Lin, editors, Advances in\
+    \ Neural Information Processing Systems 33: Annual Conference on Neural Information\
+    \ Processing Systems 2020, NeurIPS 2020, December 6-12,"
+  pub_year: 2020
+- citation: "Zhe Zeng, Paolo Morettin, Fanqi Yan, Antonio Vergari, and Guy Van den\
+    \ Broeck. Scaling up Hybrid Probabilistic Inference with Logical and Arithmetic\
+    \ Constraints via Message Passing. In Proceedings of the 37th International Conference\
+    \ on Machine Learning, ICML 2020, 13-18 July 2020, Virtual Event, volume 119 of\
+    \ Proceedings of Machine Learning Research, pages 10990\u201311000. PMLR, 2020"
+  pub_year: 2020
+- citation: 'Zhengxian Lin, Kim-Ho Lam, and Alan Fern. (2020). Contrastive Explanations
+    for Reinforcement Learning via Embedded Self Predictions. ICML 2020 Workshop on
+    XXAI: Extending Explainable AI Beyond Deep Models and Classifiers'
+  pub_year: 2020
+- citation: Zhengxian Lin, Kim-Ho Lam, and Alan Fern. (2021). Contrastive Explanations
+    for Reinforcement Learning via Embedded Self Predictions. International Conference
+    on Learning Representations (ICLR-2021).
+  pub_year: 2021
+- citation: Zhengyang Wang, Na Zou, Dinggang Shen, and Shuiwang Ji. "Non-local U-Nets
+    for biomedical image segmentation." In Proceedings of the AAAI Conference on Artificial
+    Intelligence, vol. 34, no. 04, pp. 6315-6322. 2020.
+  pub_year: 2020
+- citation: 'Zhengyang Wang, Yaochen Xie, and Shuiwang Ji. "Global voxel transformer
+    networks for augmented microscopy." Nature Machine Intelligence 3.2 (2021): 161-171.'
+  pub_year: 2021
+- citation: Zhengyang Wang, and Shuiwang Ji. "Second-order pooling for graph neural
+    networks." IEEE Transactions on Pattern Analysis and Machine Intelligence (2020).
+  pub_year: 2020
+- citation: Zhengyang Wang, and Shuiwang Ji. "Smoothed dilated convolutions for improved
+    dense prediction." In Proceedings of the 24th ACM SIGKDD International Conference
+    on Knowledge Discovery & Data Mining, pp. 2486-2495. ACM, 2018.
+  pub_year: 2018
+- citation: Zhongang Qi and Fuxi Li. Learning Explainable Embeddings for Deep Networks.
+    (2017). Visualizing and Understanding Atari Agents. NIPS Workshop on Interpreting,
+    Explaining and Visualizing Deep Learning.
+  pub_year: 2017
+- citation: Zhongang Qi, Saeed Khorram, Li Fuxin. (2020). Visualizing Deep Networks
+    by Optimizing with Integrated Gradients. AAAI Conference on Artificial Intelligence
+    (AAAI-2020).
+  pub_year: 2020
+- citation: Zhongang Qi, Saeed Khorram, Li Fuxin. (2021). Embedding Deep Networks
+    into Visual Explanations. Artificial Intelligence, 292.
+  pub_year: 2021
+- citation: "Zhou, B., Sun, Y., Bau, D., and Torralba, A. \u201CRevisiting the Importance\
+    \ of Individual Units in CNNs via Ablation\u201D https://arXiv:1806.02891.pdf\
+    \    (2018)"
+  pub_year: 2018
+- citation: Zoe Juozapaitis, Anurag Koul, Alan Fern, Martin Erwig and Finale Doshi-Velez.
+    (2019). Explainable Reinforcement Learning via Reward Decomposition. IJCAI-2019
+    Workshop on XAI.
+  pub_year: 2019
+- citation: "\u02D9Ismail \u02D9Ilkan Ceylan, Adnan Darwiche, and Guy Van den Broeck.\
+    \ Open-World Probabilistic Databases:  An Abridged Report. In Carles Sierra, editor,\
+    \ Proceedings of the Twenty-Sixth International Joint  Conference on Artificial\
+    \ Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017, pages  4796\u2013\
+    4800. ijcai.org, 2017"
+  pub_year: 2017
+- citation: "\u02D9Ismail \u02D9Ilkan Ceylan, Adnan Darwiche, and Guy Van den Broeck.\
+    \ Open-world probabilistic databases:  Semantics, algorithms, complexity. Artif.\
+    \ Intell., 295:103474, 2021"
+  pub_year: 2021
