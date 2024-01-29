@@ -20,7 +20,7 @@ Click on any resource tag in the concept map below to see associated capabilitie
 ## Other Resources
 There are a lot of other awesome tools being created by the explainable AI community that we would like to share. Please feel free to submit a pull request to contribute to this list.
 
-[AIX360](http://aix360.mybluemix.net/)  
+[AIX360](https://aix360.res.ibm.com/)  
 Interpretability and explainability of data and machine learning models
 
 [Alibi Explain](https://docs.seldon.io/projects/alibi/en/latest/)  
@@ -43,6 +43,3 @@ Framework-agnostic implementation for state-of-the-art saliency methods
 
 [Responsible AI Toolkit](https://www.tensorflow.org/responsible_ai)  
 Integrate Responsible AI practices into ML workflows using TensorFlow
-
-[Skater](https://oracle.github.io/Skater/overview.html)  
-Python library for model interpretation and explanations
